@@ -1,0 +1,12 @@
+targets:
+  $default:
+    builders:
+      freezed:
+        enabled: false
+      json_serializable:
+        enabled: false
+      source_gen|combining_builder:
+        enabled: true
+      drift_dev:
+        generate_for:
+          - lib/data/local/database.dart

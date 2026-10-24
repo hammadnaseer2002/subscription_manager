@@ -1,0 +1,4153 @@
+[
+ {
+  "id": "tech",
+  "name": ".tech",
+  "category": "Domains",
+  "brandColor": "#282828",
+  "logoAsset": "assets/logos/tech.png"
+ },
+ {
+  "id": "1password",
+  "name": "1Password",
+  "category": "Password Managers",
+  "brandColor": "#0572EC",
+  "logoAsset": "assets/logos/1password.png"
+ },
+ {
+  "id": "2fas_pass",
+  "name": "2FAS Pass",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/2fas_pass.png"
+ },
+ {
+  "id": "a1",
+  "name": "A1",
+  "category": "Mobile & Telecom",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/a1.png"
+ },
+ {
+  "id": "accuweather",
+  "name": "AccuWeather",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/accuweather.png"
+ },
+ {
+  "id": "acko",
+  "name": "ACKO",
+  "category": "Other",
+  "brandColor": "#7c47e1",
+  "logoAsset": "assets/logos/acko.png"
+ },
+ {
+  "id": "act_fibernet",
+  "name": "ACT Fibernet",
+  "category": "Internet",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/act_fibernet.png"
+ },
+ {
+  "id": "adac",
+  "name": "ADAC",
+  "category": "Transport",
+  "brandColor": "#ffcf00",
+  "logoAsset": "assets/logos/adac.png"
+ },
+ {
+  "id": "addy_io",
+  "name": "Addy.io",
+  "category": "Productivity",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/addy_io.png"
+ },
+ {
+  "id": "adguard",
+  "name": "AdGuard",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/adguard.png"
+ },
+ {
+  "id": "adguard_vpn",
+  "name": "AdGuard VPN",
+  "category": "VPN & Security",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/adguard_vpn.png"
+ },
+ {
+  "id": "adobe",
+  "name": "Adobe",
+  "category": "Other",
+  "brandColor": "#e2001a",
+  "logoAsset": "assets/logos/adobe.png"
+ },
+ {
+  "id": "aha",
+  "name": "aha",
+  "category": "Video & TV",
+  "brandColor": "#f56c30",
+  "logoAsset": "assets/logos/aha.png"
+ },
+ {
+  "id": "airtel",
+  "name": "Airtel",
+  "category": "Mobile & Telecom",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/airtel.png"
+ },
+ {
+  "id": "airtel_xstream_play",
+  "name": "Airtel Xstream Play",
+  "category": "Video & TV",
+  "brandColor": "#710809",
+  "logoAsset": "assets/logos/airtel_xstream_play.png"
+ },
+ {
+  "id": "airvpn",
+  "name": "AirVPN",
+  "category": "VPN & Security",
+  "brandColor": "#24cafe",
+  "logoAsset": "assets/logos/airvpn.png"
+ },
+ {
+  "id": "alldebrid",
+  "name": "AllDebrid",
+  "category": "Developer & Hosting",
+  "brandColor": "#FCC433",
+  "logoAsset": "assets/logos/alldebrid.png"
+ },
+ {
+  "id": "allianz",
+  "name": "Allianz",
+  "category": "Insurance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/allianz.png"
+ },
+ {
+  "id": "alltrails",
+  "name": "AllTrails",
+  "category": "Health & Fitness",
+  "brandColor": "#1b3008",
+  "logoAsset": "assets/logos/alltrails.png"
+ },
+ {
+  "id": "altt",
+  "name": "ALTT",
+  "category": "Video & TV",
+  "brandColor": "#000201",
+  "logoAsset": "assets/logos/altt.png"
+ },
+ {
+  "id": "amazon_aws",
+  "name": "Amazon AWS",
+  "category": "Developer & Hosting",
+  "brandColor": "#252f3c",
+  "logoAsset": "assets/logos/amazon_aws.png"
+ },
+ {
+  "id": "amazon_luna",
+  "name": "Amazon Luna",
+  "category": "Gaming",
+  "brandColor": "#8c43f7",
+  "logoAsset": "assets/logos/amazon_luna.png"
+ },
+ {
+  "id": "amazon_music",
+  "name": "Amazon Music",
+  "category": "Music",
+  "brandColor": "#39c8d2",
+  "logoAsset": "assets/logos/amazon_music.png"
+ },
+ {
+  "id": "amazon_prime",
+  "name": "Amazon Prime",
+  "category": "Other",
+  "brandColor": "#1C252E",
+  "logoAsset": "assets/logos/amazon_prime.png"
+ },
+ {
+  "id": "amazon_prime_video",
+  "name": "Amazon Prime Video",
+  "category": "Video & TV",
+  "brandColor": "#0d7cff",
+  "logoAsset": "assets/logos/amazon_prime_video.png"
+ },
+ {
+  "id": "amboss",
+  "name": "AMBOSS",
+  "category": "Wellness",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/amboss.png"
+ },
+ {
+  "id": "amc",
+  "name": "AMC+",
+  "category": "Video & TV",
+  "brandColor": "#05090b",
+  "logoAsset": "assets/logos/amc.png"
+ },
+ {
+  "id": "american_express",
+  "name": "American Express",
+  "category": "Finance",
+  "brandColor": "#1174d1",
+  "logoAsset": "assets/logos/american_express.png"
+ },
+ {
+  "id": "anytime_fitness",
+  "name": "Anytime Fitness",
+  "category": "Health & Fitness",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/anytime_fitness.png"
+ },
+ {
+  "id": "anytype",
+  "name": "Anytype",
+  "category": "Productivity",
+  "brandColor": "#060606",
+  "logoAsset": "assets/logos/anytype.png"
+ },
+ {
+  "id": "apple_arcade",
+  "name": "Apple Arcade",
+  "category": "Gaming",
+  "brandColor": "#e9533f",
+  "logoAsset": "assets/logos/apple_arcade.png"
+ },
+ {
+  "id": "apple_fitness",
+  "name": "Apple Fitness+",
+  "category": "Health & Fitness",
+  "brandColor": "#e5e5e5",
+  "logoAsset": "assets/logos/apple_fitness.png"
+ },
+ {
+  "id": "apple_music",
+  "name": "Apple Music",
+  "category": "Music",
+  "brandColor": "#f54e68",
+  "logoAsset": "assets/logos/apple_music.png"
+ },
+ {
+  "id": "apple_news",
+  "name": "Apple News+",
+  "category": "News & Magazines",
+  "brandColor": "#f7f7f7",
+  "logoAsset": "assets/logos/apple_news.png"
+ },
+ {
+  "id": "apple_one",
+  "name": "Apple One",
+  "category": "Other",
+  "brandColor": "#FFFFFF",
+  "logoAsset": "assets/logos/apple_one.png"
+ },
+ {
+  "id": "apple_tv",
+  "name": "Apple TV",
+  "category": "Video & TV",
+  "brandColor": "#FFFFFF",
+  "logoAsset": "assets/logos/apple_tv.png"
+ },
+ {
+  "id": "applecare",
+  "name": "AppleCare",
+  "category": "Insurance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/applecare.png"
+ },
+ {
+  "id": "araxis_merge",
+  "name": "Araxis Merge",
+  "category": "Developer & Hosting",
+  "brandColor": "#1551bd",
+  "logoAsset": "assets/logos/araxis_merge.png"
+ },
+ {
+  "id": "arlo",
+  "name": "Arlo",
+  "category": "Smart Home",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/arlo.png"
+ },
+ {
+  "id": "aruba",
+  "name": "Aruba",
+  "category": "Developer & Hosting",
+  "brandColor": "#ff8300",
+  "logoAsset": "assets/logos/aruba.png"
+ },
+ {
+  "id": "asurion",
+  "name": "Asurion",
+  "category": "Insurance",
+  "brandColor": "#7313c2",
+  "logoAsset": "assets/logos/asurion.png"
+ },
+ {
+  "id": "audible",
+  "name": "Audible",
+  "category": "Books & Comics",
+  "brandColor": "#243139",
+  "logoAsset": "assets/logos/audible.png"
+ },
+ {
+  "id": "autodesk",
+  "name": "Autodesk",
+  "category": "Other",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/autodesk.png"
+ },
+ {
+  "id": "avast",
+  "name": "Avast",
+  "category": "Antivirus",
+  "brandColor": "#f7f7f7",
+  "logoAsset": "assets/logos/avast.png"
+ },
+ {
+  "id": "babbel",
+  "name": "Babbel",
+  "category": "Education",
+  "brandColor": "#fe5208",
+  "logoAsset": "assets/logos/babbel.png"
+ },
+ {
+  "id": "backblaze",
+  "name": "Backblaze",
+  "category": "Cloud Storage",
+  "brandColor": "#f5f3f1",
+  "logoAsset": "assets/logos/backblaze.png"
+ },
+ {
+  "id": "base_by_mono",
+  "name": "Base by mono",
+  "category": "Donations",
+  "brandColor": "#9052da",
+  "logoAsset": "assets/logos/base_by_mono.png"
+ },
+ {
+  "id": "berliner_mieterverein",
+  "name": "Berliner Mieterverein",
+  "category": "Services",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/berliner_mieterverein.png"
+ },
+ {
+  "id": "betterme",
+  "name": "BetterMe",
+  "category": "Wellness",
+  "brandColor": "#222c44",
+  "logoAsset": "assets/logos/betterme.png"
+ },
+ {
+  "id": "bewakoof",
+  "name": "Bewakoof",
+  "category": "Other",
+  "brandColor": "#ffc801",
+  "logoAsset": "assets/logos/bewakoof.png"
+ },
+ {
+  "id": "binge",
+  "name": "Binge",
+  "category": "Video & TV",
+  "brandColor": "#8203b4",
+  "logoAsset": "assets/logos/binge.png"
+ },
+ {
+  "id": "bitdefender",
+  "name": "Bitdefender",
+  "category": "Other",
+  "brandColor": "#e01b22",
+  "logoAsset": "assets/logos/bitdefender.png"
+ },
+ {
+  "id": "bitwarden",
+  "name": "Bitwarden",
+  "category": "VPN & Security",
+  "brandColor": "#121a27",
+  "logoAsset": "assets/logos/bitwarden.png"
+ },
+ {
+  "id": "blinkist",
+  "name": "Blinkist",
+  "category": "Books & Comics",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/blinkist.png"
+ },
+ {
+  "id": "blitz",
+  "name": "Blitz",
+  "category": "Gaming",
+  "brandColor": "#0f0e14",
+  "logoAsset": "assets/logos/blitz.png"
+ },
+ {
+  "id": "bmw_connecteddrive",
+  "name": "BMW ConnectedDrive",
+  "category": "Transport",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/bmw_connecteddrive.png"
+ },
+ {
+  "id": "bolt_pass",
+  "name": "Bolt Pass",
+  "category": "Transport",
+  "brandColor": "#309f68",
+  "logoAsset": "assets/logos/bolt_pass.png"
+ },
+ {
+  "id": "bolt_new",
+  "name": "bolt.new",
+  "category": "AI",
+  "brandColor": "#15262f",
+  "logoAsset": "assets/logos/bolt_new.png"
+ },
+ {
+  "id": "boom_beach",
+  "name": "Boom Beach",
+  "category": "Gaming",
+  "brandColor": "#99d3e6",
+  "logoAsset": "assets/logos/boom_beach.png"
+ },
+ {
+  "id": "boot_dev",
+  "name": "Boot.dev",
+  "category": "Education",
+  "brandColor": "#1a202d",
+  "logoAsset": "assets/logos/boot_dev.png"
+ },
+ {
+  "id": "brevo",
+  "name": "Brevo",
+  "category": "Productivity",
+  "brandColor": "#1f9c73",
+  "logoAsset": "assets/logos/brevo.png"
+ },
+ {
+  "id": "brilliant",
+  "name": "Brilliant",
+  "category": "Education",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/brilliant.png"
+ },
+ {
+  "id": "britbox",
+  "name": "BritBox",
+  "category": "Video & TV",
+  "brandColor": "#00202b",
+  "logoAsset": "assets/logos/britbox.png"
+ },
+ {
+  "id": "bsnl",
+  "name": "BSNL",
+  "category": "Mobile & Telecom",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/bsnl.png"
+ },
+ {
+  "id": "bundled_notes",
+  "name": "Bundled Notes",
+  "category": "Productivity",
+  "brandColor": "#5B19C5",
+  "logoAsset": "assets/logos/bundled_notes.png"
+ },
+ {
+  "id": "buy_me_a_coffee",
+  "name": "Buy Me a Coffee",
+  "category": "Donations",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/buy_me_a_coffee.png"
+ },
+ {
+  "id": "bvg",
+  "name": "BVG",
+  "category": "Transport",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/bvg.png"
+ },
+ {
+  "id": "bytesized",
+  "name": "Bytesized",
+  "category": "Other",
+  "brandColor": "#434043",
+  "logoAsset": "assets/logos/bytesized.png"
+ },
+ {
+  "id": "c24_bank",
+  "name": "C24 Bank",
+  "category": "Finance",
+  "brandColor": "#0949cf",
+  "logoAsset": "assets/logos/c24_bank.png"
+ },
+ {
+  "id": "calm",
+  "name": "Calm",
+  "category": "Wellness",
+  "brandColor": "#697de5",
+  "logoAsset": "assets/logos/calm.png"
+ },
+ {
+  "id": "canal",
+  "name": "Canal+",
+  "category": "Video & TV",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/canal.png"
+ },
+ {
+  "id": "canary_mail",
+  "name": "Canary Mail",
+  "category": "Productivity",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/canary_mail.png"
+ },
+ {
+  "id": "canspace",
+  "name": "CanSpace",
+  "category": "Domains",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/canspace.png"
+ },
+ {
+  "id": "canva",
+  "name": "Canva",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/canva.png"
+ },
+ {
+  "id": "capcut",
+  "name": "CapCut",
+  "category": "Other",
+  "brandColor": "#f8f8f8",
+  "logoAsset": "assets/logos/capcut.png"
+ },
+ {
+  "id": "capture_one",
+  "name": "Capture One",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/capture_one.png"
+ },
+ {
+  "id": "chatgpt",
+  "name": "ChatGPT",
+  "category": "AI",
+  "brandColor": "#70a597",
+  "logoAsset": "assets/logos/chatgpt.png"
+ },
+ {
+  "id": "chatllm",
+  "name": "ChatLLM",
+  "category": "AI",
+  "brandColor": "#001322",
+  "logoAsset": "assets/logos/chatllm.png"
+ },
+ {
+  "id": "china_mobile",
+  "name": "China Mobile",
+  "category": "Mobile & Telecom",
+  "brandColor": "#e8ebf2",
+  "logoAsset": "assets/logos/china_mobile.png"
+ },
+ {
+  "id": "citymapper",
+  "name": "Citymapper",
+  "category": "Transport",
+  "brandColor": "#37ab2f",
+  "logoAsset": "assets/logos/citymapper.png"
+ },
+ {
+  "id": "claro_tv",
+  "name": "Claro TV+",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/claro_tv.png"
+ },
+ {
+  "id": "claude",
+  "name": "Claude",
+  "category": "AI",
+  "brandColor": "#272725",
+  "logoAsset": "assets/logos/claude.png"
+ },
+ {
+  "id": "cleanmymac_x",
+  "name": "CleanMyMac X",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/cleanmymac_x.png"
+ },
+ {
+  "id": "clear_vpn",
+  "name": "Clear VPN",
+  "category": "VPN & Security",
+  "brandColor": "#07061f",
+  "logoAsset": "assets/logos/clear_vpn.png"
+ },
+ {
+  "id": "cliq",
+  "name": "Cliq",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/cliq.png"
+ },
+ {
+  "id": "cloudflare",
+  "name": "Cloudflare",
+  "category": "Domains",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/cloudflare.png"
+ },
+ {
+  "id": "clue",
+  "name": "Clue",
+  "category": "Wellness",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/clue.png"
+ },
+ {
+  "id": "column",
+  "name": "Column",
+  "category": "News & Magazines",
+  "brandColor": "#060606",
+  "logoAsset": "assets/logos/column.png"
+ },
+ {
+  "id": "come_back_alive",
+  "name": "Come Back Alive",
+  "category": "Donations",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/come_back_alive.png"
+ },
+ {
+  "id": "consensus",
+  "name": "Consensus",
+  "category": "AI",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/consensus.png"
+ },
+ {
+  "id": "contabo",
+  "name": "Contabo",
+  "category": "Developer & Hosting",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/contabo.png"
+ },
+ {
+  "id": "controld",
+  "name": "ControlD",
+  "category": "VPN & Security",
+  "brandColor": "#0b141d",
+  "logoAsset": "assets/logos/controld.png"
+ },
+ {
+  "id": "coopvoce",
+  "name": "CoopVoce",
+  "category": "Mobile & Telecom",
+  "brandColor": "#E7F2D7",
+  "logoAsset": "assets/logos/coopvoce.png"
+ },
+ {
+  "id": "copilot_pro",
+  "name": "Copilot Pro",
+  "category": "AI",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/copilot_pro.png"
+ },
+ {
+  "id": "cramly_ai",
+  "name": "Cramly.ai",
+  "category": "AI",
+  "brandColor": "#dac3ff",
+  "logoAsset": "assets/logos/cramly_ai.png"
+ },
+ {
+  "id": "creative_cloud",
+  "name": "Creative Cloud",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/creative_cloud.png"
+ },
+ {
+  "id": "cricket_wireless",
+  "name": "Cricket Wireless",
+  "category": "Mobile & Telecom",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/cricket_wireless.png"
+ },
+ {
+  "id": "crunchyroll",
+  "name": "Crunchyroll",
+  "category": "Video & TV",
+  "brandColor": "#ff6308",
+  "logoAsset": "assets/logos/crunchyroll.png"
+ },
+ {
+  "id": "curiosity_stream",
+  "name": "Curiosity Stream",
+  "category": "Video & TV",
+  "brandColor": "#edb146",
+  "logoAsset": "assets/logos/curiosity_stream.png"
+ },
+ {
+  "id": "cursor",
+  "name": "Cursor",
+  "category": "Developer & Hosting",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/cursor.png"
+ },
+ {
+  "id": "curve",
+  "name": "Curve",
+  "category": "Finance",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/curve.png"
+ },
+ {
+  "id": "cyberghost_vpn",
+  "name": "CyberGhost VPN",
+  "category": "VPN & Security",
+  "brandColor": "#ffcc00",
+  "logoAsset": "assets/logos/cyberghost_vpn.png"
+ },
+ {
+  "id": "d_ticket",
+  "name": "D-Ticket",
+  "category": "Transport",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/d_ticket.png"
+ },
+ {
+  "id": "dashlane",
+  "name": "Dashlane",
+  "category": "Password Managers",
+  "brandColor": "#103c45",
+  "logoAsset": "assets/logos/dashlane.png"
+ },
+ {
+  "id": "datalix",
+  "name": "Datalix",
+  "category": "Domains",
+  "brandColor": "#1f2937",
+  "logoAsset": "assets/logos/datalix.png"
+ },
+ {
+  "id": "day_one",
+  "name": "Day One",
+  "category": "Productivity",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/day_one.png"
+ },
+ {
+  "id": "dazn",
+  "name": "DAZN",
+  "category": "Video & TV",
+  "brandColor": "#141d24",
+  "logoAsset": "assets/logos/dazn.png"
+ },
+ {
+  "id": "debridio",
+  "name": "Debridio",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/debridio.png"
+ },
+ {
+  "id": "deepl_pro",
+  "name": "DeepL Pro",
+  "category": "Productivity",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/deepl_pro.png"
+ },
+ {
+  "id": "deepseek",
+  "name": "DeepSeek",
+  "category": "AI",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/deepseek.png"
+ },
+ {
+  "id": "deezer",
+  "name": "Deezer",
+  "category": "Music",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/deezer.png"
+ },
+ {
+  "id": "deliveroo_plus",
+  "name": "Deliveroo Plus",
+  "category": "Food & Delivery",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/deliveroo_plus.png"
+ },
+ {
+  "id": "deutsche_bahn",
+  "name": "Deutsche Bahn ",
+  "category": "Transport",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/deutsche_bahn.png"
+ },
+ {
+  "id": "deutsche_post",
+  "name": "Deutsche Post",
+  "category": "Shipping",
+  "brandColor": "#fbc616",
+  "logoAsset": "assets/logos/deutsche_post.png"
+ },
+ {
+  "id": "dhl",
+  "name": "DHL",
+  "category": "Shipping",
+  "brandColor": "#ffcc0c",
+  "logoAsset": "assets/logos/dhl.png"
+ },
+ {
+  "id": "digi",
+  "name": "Digi",
+  "category": "Internet",
+  "brandColor": "#ffe600",
+  "logoAsset": "assets/logos/digi.png"
+ },
+ {
+  "id": "digit",
+  "name": "Digit",
+  "category": "Finance",
+  "brandColor": "#1a82f2",
+  "logoAsset": "assets/logos/digit.png"
+ },
+ {
+  "id": "digital_ocean",
+  "name": "Digital Ocean",
+  "category": "Developer & Hosting",
+  "brandColor": "#F3F4F9",
+  "logoAsset": "assets/logos/digital_ocean.png"
+ },
+ {
+  "id": "discord",
+  "name": "Discord",
+  "category": "Gaming",
+  "brandColor": "#5d69f2",
+  "logoAsset": "assets/logos/discord.png"
+ },
+ {
+  "id": "discovery",
+  "name": "Discovery+",
+  "category": "Video & TV",
+  "brandColor": "#0152A2",
+  "logoAsset": "assets/logos/discovery.png"
+ },
+ {
+  "id": "disney",
+  "name": "Disney+",
+  "category": "Video & TV",
+  "brandColor": "#091546",
+  "logoAsset": "assets/logos/disney.png"
+ },
+ {
+  "id": "disney_hotstar",
+  "name": "Disney+ Hotstar",
+  "category": "Video & TV",
+  "brandColor": "#131927",
+  "logoAsset": "assets/logos/disney_hotstar.png"
+ },
+ {
+  "id": "distrokid",
+  "name": "DistroKid",
+  "category": "Music",
+  "brandColor": "#0F78B8",
+  "logoAsset": "assets/logos/distrokid.png"
+ },
+ {
+  "id": "doordash",
+  "name": "Doordash",
+  "category": "Food & Delivery",
+  "brandColor": "#f44322",
+  "logoAsset": "assets/logos/doordash.png"
+ },
+ {
+  "id": "dota_plus",
+  "name": "Dota Plus",
+  "category": "Gaming",
+  "brandColor": "#B3A266",
+  "logoAsset": "assets/logos/dota_plus.png"
+ },
+ {
+  "id": "down_dog",
+  "name": "Down Dog",
+  "category": "Wellness",
+  "brandColor": "#57a5ee",
+  "logoAsset": "assets/logos/down_dog.png"
+ },
+ {
+  "id": "dreamhost",
+  "name": "Dreamhost",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/dreamhost.png"
+ },
+ {
+  "id": "dropbox",
+  "name": "Dropbox",
+  "category": "Cloud Storage",
+  "brandColor": "#0865fe",
+  "logoAsset": "assets/logos/dropbox.png"
+ },
+ {
+  "id": "dropee",
+  "name": "Dropee",
+  "category": "Shopping",
+  "brandColor": "#45e98b",
+  "logoAsset": "assets/logos/dropee.png"
+ },
+ {
+  "id": "duolingo",
+  "name": "Duolingo",
+  "category": "Other",
+  "brandColor": "#235390",
+  "logoAsset": "assets/logos/duolingo.png"
+ },
+ {
+  "id": "easynews",
+  "name": "Easynews",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/easynews.png"
+ },
+ {
+  "id": "eat_this_much",
+  "name": "Eat This Much",
+  "category": "Food & Delivery",
+  "brandColor": "#f07550",
+  "logoAsset": "assets/logos/eat_this_much.png"
+ },
+ {
+  "id": "elevenlabs",
+  "name": "ElevenLabs",
+  "category": "AI",
+  "brandColor": "#fdfcfc",
+  "logoAsset": "assets/logos/elevenlabs.png"
+ },
+ {
+  "id": "emby",
+  "name": "Emby",
+  "category": "Video & TV",
+  "brandColor": "#212121",
+  "logoAsset": "assets/logos/emby.png"
+ },
+ {
+  "id": "endel",
+  "name": "Endel",
+  "category": "Wellness",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/endel.png"
+ },
+ {
+  "id": "enpass",
+  "name": "Enpass",
+  "category": "Password Managers",
+  "brandColor": "#08327f",
+  "logoAsset": "assets/logos/enpass.png"
+ },
+ {
+  "id": "ente_photos",
+  "name": "Ente Photos",
+  "category": "Cloud Storage",
+  "brandColor": "#00c600",
+  "logoAsset": "assets/logos/ente_photos.png"
+ },
+ {
+  "id": "envato",
+  "name": "Envato",
+  "category": "Developer & Hosting",
+  "brandColor": "#202020",
+  "logoAsset": "assets/logos/envato.png"
+ },
+ {
+  "id": "eolo",
+  "name": "Eolo",
+  "category": "Internet",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/eolo.png"
+ },
+ {
+  "id": "eon_tv",
+  "name": "EON TV",
+  "category": "Video & TV",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/eon_tv.png"
+ },
+ {
+  "id": "epic_games",
+  "name": "Epic Games",
+  "category": "Gaming",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/epic_games.png"
+ },
+ {
+  "id": "ergo",
+  "name": "ERGO",
+  "category": "Insurance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/ergo.png"
+ },
+ {
+  "id": "eset",
+  "name": "ESET",
+  "category": "Antivirus",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/eset.png"
+ },
+ {
+  "id": "etv_win",
+  "name": "ETV Win",
+  "category": "Video & TV",
+  "brandColor": "#c40808",
+  "logoAsset": "assets/logos/etv_win.png"
+ },
+ {
+  "id": "euroleague_tv",
+  "name": "EuroLeague TV",
+  "category": "Video & TV",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/euroleague_tv.png"
+ },
+ {
+  "id": "evernote",
+  "name": "Evernote",
+  "category": "Productivity",
+  "brandColor": "#79D626",
+  "logoAsset": "assets/logos/evernote.png"
+ },
+ {
+  "id": "ewelink",
+  "name": "eWeLink",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/ewelink.png"
+ },
+ {
+  "id": "expressvpn",
+  "name": "ExpressVPN",
+  "category": "VPN & Security",
+  "brandColor": "#e0d4c4",
+  "logoAsset": "assets/logos/expressvpn.png"
+ },
+ {
+  "id": "f1_tv",
+  "name": "F1 TV",
+  "category": "Video & TV",
+  "brandColor": "#e10600",
+  "logoAsset": "assets/logos/f1_tv.png"
+ },
+ {
+  "id": "faceapp",
+  "name": "FaceApp",
+  "category": "Developer & Hosting",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/faceapp.png"
+ },
+ {
+  "id": "fancode",
+  "name": "FanCode",
+  "category": "Health & Fitness",
+  "brandColor": "#ff5615",
+  "logoAsset": "assets/logos/fancode.png"
+ },
+ {
+  "id": "fastmail",
+  "name": "Fastmail",
+  "category": "Productivity",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/fastmail.png"
+ },
+ {
+  "id": "fastweb",
+  "name": "Fastweb",
+  "category": "Internet",
+  "brandColor": "#ffc108",
+  "logoAsset": "assets/logos/fastweb.png"
+ },
+ {
+  "id": "figma",
+  "name": "Figma",
+  "category": "Developer & Hosting",
+  "brandColor": "#C7B9FF",
+  "logoAsset": "assets/logos/figma.png"
+ },
+ {
+  "id": "filen",
+  "name": "Filen",
+  "category": "Cloud Storage",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/filen.png"
+ },
+ {
+  "id": "final_fantasy_xiv",
+  "name": "Final Fantasy XIV",
+  "category": "Gaming",
+  "brandColor": "#151515",
+  "logoAsset": "assets/logos/final_fantasy_xiv.png"
+ },
+ {
+  "id": "firebase",
+  "name": "Firebase",
+  "category": "Developer & Hosting",
+  "brandColor": "#1e1e1e",
+  "logoAsset": "assets/logos/firebase.png"
+ },
+ {
+  "id": "firebender",
+  "name": "Firebender",
+  "category": "AI",
+  "brandColor": "#170300",
+  "logoAsset": "assets/logos/firebender.png"
+ },
+ {
+  "id": "fitbit_premium",
+  "name": "Fitbit Premium",
+  "category": "Health & Fitness",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/fitbit_premium.png"
+ },
+ {
+  "id": "flickr",
+  "name": "Flickr",
+  "category": "Other",
+  "brandColor": "#151919",
+  "logoAsset": "assets/logos/flickr.png"
+ },
+ {
+  "id": "flightradar24",
+  "name": "Flightradar24",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/flightradar24.png"
+ },
+ {
+  "id": "flo",
+  "name": "Flo",
+  "category": "Wellness",
+  "brandColor": "#f16b84",
+  "logoAsset": "assets/logos/flo.png"
+ },
+ {
+  "id": "floatplane",
+  "name": "Floatplane",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/floatplane.png"
+ },
+ {
+  "id": "flomo",
+  "name": "flomo",
+  "category": "Productivity",
+  "brandColor": "#f2f2f2",
+  "logoAsset": "assets/logos/flomo.png"
+ },
+ {
+  "id": "flutterflow",
+  "name": "FlutterFlow",
+  "category": "Developer & Hosting",
+  "brandColor": "#5140f0",
+  "logoAsset": "assets/logos/flutterflow.png"
+ },
+ {
+  "id": "font_awesome",
+  "name": "Font Awesome",
+  "category": "Developer & Hosting",
+  "brandColor": "#218ae6",
+  "logoAsset": "assets/logos/font_awesome.png"
+ },
+ {
+  "id": "foodpanda",
+  "name": "Foodpanda",
+  "category": "Food & Delivery",
+  "brandColor": "#ff3188",
+  "logoAsset": "assets/logos/foodpanda.png"
+ },
+ {
+  "id": "forest",
+  "name": "Forest",
+  "category": "Productivity",
+  "brandColor": "#50aa8d",
+  "logoAsset": "assets/logos/forest.png"
+ },
+ {
+  "id": "freedom",
+  "name": "Freedom",
+  "category": "Productivity",
+  "brandColor": "#6ec05d",
+  "logoAsset": "assets/logos/freedom.png"
+ },
+ {
+  "id": "freeletics",
+  "name": "Freeletics",
+  "category": "Health & Fitness",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/freeletics.png"
+ },
+ {
+  "id": "freepik",
+  "name": "Freepik",
+  "category": "Developer & Hosting",
+  "brandColor": "#396eea",
+  "logoAsset": "assets/logos/freepik.png"
+ },
+ {
+  "id": "fuelio",
+  "name": "Fuelio",
+  "category": "Developer & Hosting",
+  "brandColor": "#8339f6",
+  "logoAsset": "assets/logos/fuelio.png"
+ },
+ {
+  "id": "gaana",
+  "name": "Gaana",
+  "category": "Music",
+  "brandColor": "#DF2B2E",
+  "logoAsset": "assets/logos/gaana.png"
+ },
+ {
+  "id": "gagaoolala",
+  "name": "GagaOOLala",
+  "category": "Video & TV",
+  "brandColor": "#583f76",
+  "logoAsset": "assets/logos/gagaoolala.png"
+ },
+ {
+  "id": "gaia_gps",
+  "name": "Gaia GPS",
+  "category": "Health & Fitness",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/gaia_gps.png"
+ },
+ {
+  "id": "gamestar",
+  "name": "GameStar",
+  "category": "News & Magazines",
+  "brandColor": "#0055b9",
+  "logoAsset": "assets/logos/gamestar.png"
+ },
+ {
+  "id": "gamma",
+  "name": "Gamma",
+  "category": "Other",
+  "brandColor": "#354695",
+  "logoAsset": "assets/logos/gamma.png"
+ },
+ {
+  "id": "gandi",
+  "name": "Gandi",
+  "category": "Domains",
+  "brandColor": "#262626",
+  "logoAsset": "assets/logos/gandi.png"
+ },
+ {
+  "id": "geforce_now",
+  "name": "GeForce Now",
+  "category": "Gaming",
+  "brandColor": "#7bbb16",
+  "logoAsset": "assets/logos/geforce_now.png"
+ },
+ {
+  "id": "gemini_2",
+  "name": "Gemini 2",
+  "category": "Productivity",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/gemini_2.png"
+ },
+ {
+  "id": "geocaching",
+  "name": "Geocaching",
+  "category": "Health & Fitness",
+  "brandColor": "#148d56",
+  "logoAsset": "assets/logos/geocaching.png"
+ },
+ {
+  "id": "geoguessr",
+  "name": "GeoGuessr",
+  "category": "Gaming",
+  "brandColor": "#f7f7f7",
+  "logoAsset": "assets/logos/geoguessr.png"
+ },
+ {
+  "id": "giffgaff",
+  "name": "giffgaff",
+  "category": "Mobile & Telecom",
+  "brandColor": "#0b0607",
+  "logoAsset": "assets/logos/giffgaff.png"
+ },
+ {
+  "id": "github",
+  "name": "Github",
+  "category": "Developer & Hosting",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/github.png"
+ },
+ {
+  "id": "github_copilot",
+  "name": "Github Copilot",
+  "category": "AI",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/github_copilot.png"
+ },
+ {
+  "id": "globalcomix",
+  "name": "GlobalComix",
+  "category": "Books & Comics",
+  "brandColor": "#141517",
+  "logoAsset": "assets/logos/globalcomix.png"
+ },
+ {
+  "id": "globoplay",
+  "name": "Globoplay",
+  "category": "Video & TV",
+  "brandColor": "#fb5228",
+  "logoAsset": "assets/logos/globoplay.png"
+ },
+ {
+  "id": "glovo_prime",
+  "name": "Glovo Prime",
+  "category": "Food & Delivery",
+  "brandColor": "#7a7aea",
+  "logoAsset": "assets/logos/glovo_prime.png"
+ },
+ {
+  "id": "godaddy",
+  "name": "GoDaddy",
+  "category": "Domains",
+  "brandColor": "#21dcdc",
+  "logoAsset": "assets/logos/godaddy.png"
+ },
+ {
+  "id": "google_ai",
+  "name": "Google AI",
+  "category": "AI",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/google_ai.png"
+ },
+ {
+  "id": "google_domains",
+  "name": "Google Domains",
+  "category": "Domains",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/google_domains.png"
+ },
+ {
+  "id": "google_one",
+  "name": "Google One",
+  "category": "Cloud Storage",
+  "brandColor": "#FFFFFF",
+  "logoAsset": "assets/logos/google_one.png"
+ },
+ {
+  "id": "google_photos",
+  "name": "Google Photos",
+  "category": "Other",
+  "brandColor": "#FFFFFF",
+  "logoAsset": "assets/logos/google_photos.png"
+ },
+ {
+  "id": "google_play_pass",
+  "name": "Google Play Pass",
+  "category": "Other",
+  "brandColor": "#FFFFFF",
+  "logoAsset": "assets/logos/google_play_pass.png"
+ },
+ {
+  "id": "google_workspace",
+  "name": "Google Workspace",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/google_workspace.png"
+ },
+ {
+  "id": "gopro",
+  "name": "GoPro",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/gopro.png"
+ },
+ {
+  "id": "grammarly_premium",
+  "name": "Grammarly Premium",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/grammarly_premium.png"
+ },
+ {
+  "id": "groww",
+  "name": "Groww",
+  "category": "Finance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/groww.png"
+ },
+ {
+  "id": "grubhub",
+  "name": "Grubhub+",
+  "category": "Food & Delivery",
+  "brandColor": "#ff5a08",
+  "logoAsset": "assets/logos/grubhub.png"
+ },
+ {
+  "id": "hack_the_box",
+  "name": "Hack The Box",
+  "category": "Education",
+  "brandColor": "#111926",
+  "logoAsset": "assets/logos/hack_the_box.png"
+ },
+ {
+  "id": "hansemerkur",
+  "name": "Hansemerkur",
+  "category": "Insurance",
+  "brandColor": "#088b6e",
+  "logoAsset": "assets/logos/hansemerkur.png"
+ },
+ {
+  "id": "hbo_go",
+  "name": "HBO Go",
+  "category": "Video & TV",
+  "brandColor": "#232323",
+  "logoAsset": "assets/logos/hbo_go.png"
+ },
+ {
+  "id": "hbo_max",
+  "name": "HBO Max",
+  "category": "Video & TV",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/hbo_max.png"
+ },
+ {
+  "id": "headspace",
+  "name": "Headspace",
+  "category": "Other",
+  "brandColor": "#FAF6F4",
+  "logoAsset": "assets/logos/headspace.png"
+ },
+ {
+  "id": "heise_online",
+  "name": "heise online",
+  "category": "News & Magazines",
+  "brandColor": "#323232",
+  "logoAsset": "assets/logos/heise_online.png"
+ },
+ {
+  "id": "heroku",
+  "name": "Heroku",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/heroku.png"
+ },
+ {
+  "id": "hetzner",
+  "name": "Hetzner",
+  "category": "Developer & Hosting",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/hetzner.png"
+ },
+ {
+  "id": "hevy",
+  "name": "Hevy",
+  "category": "Health & Fitness",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/hevy.png"
+ },
+ {
+  "id": "heyo_phone",
+  "name": "Heyo Phone",
+  "category": "Mobile & Telecom",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/heyo_phone.png"
+ },
+ {
+  "id": "hidive",
+  "name": "HIDIVE",
+  "category": "Other",
+  "brandColor": "#00aced",
+  "logoAsset": "assets/logos/hidive.png"
+ },
+ {
+  "id": "ho",
+  "name": "ho.",
+  "category": "Mobile & Telecom",
+  "brandColor": "#FFFFFF",
+  "logoAsset": "assets/logos/ho.png"
+ },
+ {
+  "id": "hostgator",
+  "name": "Hostgator",
+  "category": "Domains",
+  "brandColor": "#f5f6f8",
+  "logoAsset": "assets/logos/hostgator.png"
+ },
+ {
+  "id": "hostinger",
+  "name": "Hostinger",
+  "category": "Domains",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/hostinger.png"
+ },
+ {
+  "id": "hotline_finance",
+  "name": "hotline.finance",
+  "category": "Insurance",
+  "brandColor": "#ff7c50",
+  "logoAsset": "assets/logos/hotline_finance.png"
+ },
+ {
+  "id": "huk_coburg",
+  "name": "HUK-COBURG",
+  "category": "Insurance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/huk_coburg.png"
+ },
+ {
+  "id": "hulu",
+  "name": "Hulu",
+  "category": "Video & TV",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/hulu.png"
+ },
+ {
+  "id": "humble_bundle",
+  "name": "Humble Bundle",
+  "category": "Gaming",
+  "brandColor": "#CC2929",
+  "logoAsset": "assets/logos/humble_bundle.png"
+ },
+ {
+  "id": "hungama_music",
+  "name": "Hungama Music",
+  "category": "Music",
+  "brandColor": "#18191b",
+  "logoAsset": "assets/logos/hungama_music.png"
+ },
+ {
+  "id": "hushed",
+  "name": "Hushed",
+  "category": "Mobile & Telecom",
+  "brandColor": "#c60000",
+  "logoAsset": "assets/logos/hushed.png"
+ },
+ {
+  "id": "ia_writer",
+  "name": "iA Writer",
+  "category": "Productivity",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/ia_writer.png"
+ },
+ {
+  "id": "icedrive",
+  "name": "icedrive",
+  "category": "Cloud Storage",
+  "brandColor": "#0A2373",
+  "logoAsset": "assets/logos/icedrive.png"
+ },
+ {
+  "id": "icloud",
+  "name": "iCloud",
+  "category": "Cloud Storage",
+  "brandColor": "#FFFFFF",
+  "logoAsset": "assets/logos/icloud.png"
+ },
+ {
+  "id": "idagio",
+  "name": "IDAGIO",
+  "category": "Music",
+  "brandColor": "#232427",
+  "logoAsset": "assets/logos/idagio.png"
+ },
+ {
+  "id": "ifood",
+  "name": "iFood",
+  "category": "Food & Delivery",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/ifood.png"
+ },
+ {
+  "id": "ifttt",
+  "name": "IFTTT",
+  "category": "Developer & Hosting",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/ifttt.png"
+ },
+ {
+  "id": "iliad",
+  "name": "iliad",
+  "category": "Mobile & Telecom",
+  "brandColor": "#FFFFFF",
+  "logoAsset": "assets/logos/iliad.png"
+ },
+ {
+  "id": "infinite_backlog",
+  "name": "Infinite Backlog",
+  "category": "Gaming",
+  "brandColor": "#242830",
+  "logoAsset": "assets/logos/infinite_backlog.png"
+ },
+ {
+  "id": "infomaniak",
+  "name": "Infomaniak",
+  "category": "Domains",
+  "brandColor": "#089afe",
+  "logoAsset": "assets/logos/infomaniak.png"
+ },
+ {
+  "id": "inoreader",
+  "name": "Inoreader",
+  "category": "Developer & Hosting",
+  "brandColor": "#007bc7",
+  "logoAsset": "assets/logos/inoreader.png"
+ },
+ {
+  "id": "instacart",
+  "name": "Instacart",
+  "category": "Productivity",
+  "brandColor": "#08442f",
+  "logoAsset": "assets/logos/instacart.png"
+ },
+ {
+  "id": "instagram",
+  "name": "Instagram",
+  "category": "Internet",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/instagram.png"
+ },
+ {
+  "id": "intellij_idea",
+  "name": "Intellij IDEA",
+  "category": "Developer & Hosting",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/intellij_idea.png"
+ },
+ {
+  "id": "iproyal",
+  "name": "IPRoyal",
+  "category": "VPN & Security",
+  "brandColor": "#08464c",
+  "logoAsset": "assets/logos/iproyal.png"
+ },
+ {
+  "id": "ivpn",
+  "name": "IVPN",
+  "category": "VPN & Security",
+  "brandColor": "#2f2f34",
+  "logoAsset": "assets/logos/ivpn.png"
+ },
+ {
+  "id": "jcb",
+  "name": "JCB",
+  "category": "Finance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/jcb.png"
+ },
+ {
+  "id": "jeep",
+  "name": "Jeep",
+  "category": "Transport",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/jeep.png"
+ },
+ {
+  "id": "jetbrains_ai",
+  "name": "Jetbrains AI",
+  "category": "AI",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/jetbrains_ai.png"
+ },
+ {
+  "id": "jetbrains_toolbox",
+  "name": "Jetbrains Toolbox",
+  "category": "Domains",
+  "brandColor": "#f6f6f6",
+  "logoAsset": "assets/logos/jetbrains_toolbox.png"
+ },
+ {
+  "id": "joplin",
+  "name": "Joplin",
+  "category": "Productivity",
+  "brandColor": "#136bcb",
+  "logoAsset": "assets/logos/joplin.png"
+ },
+ {
+  "id": "kagi",
+  "name": "Kagi",
+  "category": "Internet",
+  "brandColor": "#ffb526",
+  "logoAsset": "assets/logos/kagi.png"
+ },
+ {
+  "id": "kakaotalk",
+  "name": "KakaoTalk",
+  "category": "Communication",
+  "brandColor": "#f7e011",
+  "logoAsset": "assets/logos/kakaotalk.png"
+ },
+ {
+  "id": "kaview",
+  "name": "Kaview",
+  "category": "Finance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/kaview.png"
+ },
+ {
+  "id": "kayo_sports",
+  "name": "Kayo Sports",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/kayo_sports.png"
+ },
+ {
+  "id": "kena_mobile",
+  "name": "Kena Mobile",
+  "category": "Mobile & Telecom",
+  "brandColor": "#f9af37",
+  "logoAsset": "assets/logos/kena_mobile.png"
+ },
+ {
+  "id": "kenmei",
+  "name": "Kenmei",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/kenmei.png"
+ },
+ {
+  "id": "kick",
+  "name": "Kick",
+  "category": "Video & TV",
+  "brandColor": "#141517",
+  "logoAsset": "assets/logos/kick.png"
+ },
+ {
+  "id": "kimi",
+  "name": "Kimi",
+  "category": "AI",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/kimi.png"
+ },
+ {
+  "id": "kindle_unlimited",
+  "name": "Kindle Unlimited",
+  "category": "Books & Comics",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/kindle_unlimited.png"
+ },
+ {
+  "id": "klarna",
+  "name": "Klarna",
+  "category": "Finance",
+  "brandColor": "#ffaace",
+  "logoAsset": "assets/logos/klarna.png"
+ },
+ {
+  "id": "ko_fi",
+  "name": "Ko-fi",
+  "category": "Donations",
+  "brandColor": "#00b9fe",
+  "logoAsset": "assets/logos/ko_fi.png"
+ },
+ {
+  "id": "komoot",
+  "name": "Komoot",
+  "category": "Health & Fitness",
+  "brandColor": "#f7f7f7",
+  "logoAsset": "assets/logos/komoot.png"
+ },
+ {
+  "id": "koodo_reader",
+  "name": "Koodo Reader",
+  "category": "Books & Comics",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/koodo_reader.png"
+ },
+ {
+  "id": "krisp",
+  "name": "Krisp",
+  "category": "Developer & Hosting",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/krisp.png"
+ },
+ {
+  "id": "ksfe",
+  "name": "KSFE",
+  "category": "Finance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/ksfe.png"
+ },
+ {
+  "id": "kuku_fm",
+  "name": "Kuku FM",
+  "category": "Music",
+  "brandColor": "#fc5237",
+  "logoAsset": "assets/logos/kuku_fm.png"
+ },
+ {
+  "id": "languagetool",
+  "name": "LanguageTool",
+  "category": "Developer & Hosting",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/languagetool.png"
+ },
+ {
+  "id": "last_fm",
+  "name": "Last.fm",
+  "category": "Music",
+  "brandColor": "#d12931",
+  "logoAsset": "assets/logos/last_fm.png"
+ },
+ {
+  "id": "lastpass",
+  "name": "LastPass",
+  "category": "Password Managers",
+  "brandColor": "#d43a34",
+  "logoAsset": "assets/logos/lastpass.png"
+ },
+ {
+  "id": "lebara",
+  "name": "Lebara",
+  "category": "Mobile & Telecom",
+  "brandColor": "#2591f7",
+  "logoAsset": "assets/logos/lebara.png"
+ },
+ {
+  "id": "legimi",
+  "name": "Legimi",
+  "category": "Books & Comics",
+  "brandColor": "#008385",
+  "logoAsset": "assets/logos/legimi.png"
+ },
+ {
+  "id": "lenskart_gold",
+  "name": "Lenskart Gold",
+  "category": "Other",
+  "brandColor": "#F1B320",
+  "logoAsset": "assets/logos/lenskart_gold.png"
+ },
+ {
+  "id": "letterboxd",
+  "name": "Letterboxd",
+  "category": "Other",
+  "brandColor": "#14181C",
+  "logoAsset": "assets/logos/letterboxd.png"
+ },
+ {
+  "id": "licious_inifiniti",
+  "name": "Licious Inifiniti",
+  "category": "Food & Delivery",
+  "brandColor": "#844960",
+  "logoAsset": "assets/logos/licious_inifiniti.png"
+ },
+ {
+  "id": "lifecell",
+  "name": "Lifecell",
+  "category": "Mobile & Telecom",
+  "brandColor": "#093981",
+  "logoAsset": "assets/logos/lifecell.png"
+ },
+ {
+  "id": "lingvanex",
+  "name": "Lingvanex",
+  "category": "Developer & Hosting",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/lingvanex.png"
+ },
+ {
+  "id": "linkedin_premium",
+  "name": "LinkedIn Premium",
+  "category": "Career",
+  "brandColor": "#f68313",
+  "logoAsset": "assets/logos/linkedin_premium.png"
+ },
+ {
+  "id": "linkem",
+  "name": "Linkem",
+  "category": "Internet",
+  "brandColor": "#F2F2F2",
+  "logoAsset": "assets/logos/linkem.png"
+ },
+ {
+  "id": "linktree",
+  "name": "Linktree",
+  "category": "Productivity",
+  "brandColor": "#FFFFFF",
+  "logoAsset": "assets/logos/linktree.png"
+ },
+ {
+  "id": "linocode",
+  "name": "Linocode",
+  "category": "Developer & Hosting",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/linocode.png"
+ },
+ {
+  "id": "lionsgate_play",
+  "name": "Lionsgate Play",
+  "category": "Video & TV",
+  "brandColor": "#1a1b1d",
+  "logoAsset": "assets/logos/lionsgate_play.png"
+ },
+ {
+  "id": "macrofactor",
+  "name": "MacroFactor",
+  "category": "Wellness",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/macrofactor.png"
+ },
+ {
+  "id": "magentatv",
+  "name": "MagentaTV",
+  "category": "Video & TV",
+  "brandColor": "#e31079",
+  "logoAsset": "assets/logos/magentatv.png"
+ },
+ {
+  "id": "mailbox",
+  "name": "mailbox",
+  "category": "Productivity",
+  "brandColor": "#c2ec85",
+  "logoAsset": "assets/logos/mailbox.png"
+ },
+ {
+  "id": "marvel_unlimited",
+  "name": "Marvel Unlimited",
+  "category": "Books & Comics",
+  "brandColor": "#044da0",
+  "logoAsset": "assets/logos/marvel_unlimited.png"
+ },
+ {
+  "id": "mastercard",
+  "name": "Mastercard",
+  "category": "Finance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/mastercard.png"
+ },
+ {
+  "id": "matter",
+  "name": "Matter",
+  "category": "Books & Comics",
+  "brandColor": "#0f0f0f",
+  "logoAsset": "assets/logos/matter.png"
+ },
+ {
+  "id": "mawista",
+  "name": "MAWISTA",
+  "category": "Insurance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/mawista.png"
+ },
+ {
+  "id": "max_life_insurance",
+  "name": "Max Life Insurance",
+  "category": "Insurance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/max_life_insurance.png"
+ },
+ {
+  "id": "maxon",
+  "name": "Maxon",
+  "category": "Other",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/maxon.png"
+ },
+ {
+  "id": "medium",
+  "name": "Medium",
+  "category": "Internet",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/medium.png"
+ },
+ {
+  "id": "mega",
+  "name": "MEGA",
+  "category": "Cloud Storage",
+  "brandColor": "#da080e",
+  "logoAsset": "assets/logos/mega.png"
+ },
+ {
+  "id": "megogo",
+  "name": "MEGOGO",
+  "category": "Video & TV",
+  "brandColor": "#f7f7f7",
+  "logoAsset": "assets/logos/megogo.png"
+ },
+ {
+  "id": "mercado_libre",
+  "name": "Mercado Libre",
+  "category": "Mobile & Telecom",
+  "brandColor": "#fff159",
+  "logoAsset": "assets/logos/mercado_libre.png"
+ },
+ {
+  "id": "meta_quest",
+  "name": "Meta Quest+",
+  "category": "Gaming",
+  "brandColor": "#dde8f9",
+  "logoAsset": "assets/logos/meta_quest.png"
+ },
+ {
+  "id": "meta_verified",
+  "name": "Meta Verified",
+  "category": "Internet",
+  "brandColor": "#f4f6fd",
+  "logoAsset": "assets/logos/meta_verified.png"
+ },
+ {
+  "id": "mgm",
+  "name": "MGM+",
+  "category": "Video & TV",
+  "brandColor": "#060606",
+  "logoAsset": "assets/logos/mgm.png"
+ },
+ {
+  "id": "microsoft_365",
+  "name": "Microsoft 365",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/microsoft_365.png"
+ },
+ {
+  "id": "microsoft_azure",
+  "name": "Microsoft Azure",
+  "category": "Domains",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/microsoft_azure.png"
+ },
+ {
+  "id": "midjourney",
+  "name": "Midjourney",
+  "category": "AI",
+  "brandColor": "#f9fafc",
+  "logoAsset": "assets/logos/midjourney.png"
+ },
+ {
+  "id": "mikr_us",
+  "name": "Mikr.us",
+  "category": "Domains",
+  "brandColor": "#c2c1c2",
+  "logoAsset": "assets/logos/mikr_us.png"
+ },
+ {
+  "id": "minecraft_realms",
+  "name": "Minecraft Realms",
+  "category": "Gaming",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/minecraft_realms.png"
+ },
+ {
+  "id": "mobbin",
+  "name": "Mobbin",
+  "category": "Developer & Hosting",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/mobbin.png"
+ },
+ {
+  "id": "mobile_vikings",
+  "name": "Mobile Vikings",
+  "category": "Mobile & Telecom",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/mobile_vikings.png"
+ },
+ {
+  "id": "money_forward",
+  "name": "Money Forward",
+  "category": "Finance",
+  "brandColor": "#f17208",
+  "logoAsset": "assets/logos/money_forward.png"
+ },
+ {
+  "id": "monica",
+  "name": "Monica",
+  "category": "Productivity",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/monica.png"
+ },
+ {
+  "id": "monzo",
+  "name": "Monzo",
+  "category": "Finance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/monzo.png"
+ },
+ {
+  "id": "mooneygo",
+  "name": "MooneyGo",
+  "category": "Transport",
+  "brandColor": "#f7f7f7",
+  "logoAsset": "assets/logos/mooneygo.png"
+ },
+ {
+  "id": "moviebase",
+  "name": "Moviebase",
+  "category": "Video & TV",
+  "brandColor": "#151D27",
+  "logoAsset": "assets/logos/moviebase.png"
+ },
+ {
+  "id": "movistar_plus",
+  "name": "Movistar Plus+",
+  "category": "Video & TV",
+  "brandColor": "#f7f7f7",
+  "logoAsset": "assets/logos/movistar_plus.png"
+ },
+ {
+  "id": "mubi",
+  "name": "MUBI",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/mubi.png"
+ },
+ {
+  "id": "mullvad_vpn",
+  "name": "Mullvad VPN",
+  "category": "VPN & Security",
+  "brandColor": "#192e45",
+  "logoAsset": "assets/logos/mullvad_vpn.png"
+ },
+ {
+  "id": "mx_player_gold",
+  "name": "MX Player Gold",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/mx_player_gold.png"
+ },
+ {
+  "id": "myfitnesspal",
+  "name": "MyFitnessPal",
+  "category": "Wellness",
+  "brandColor": "#0066ee",
+  "logoAsset": "assets/logos/myfitnesspal.png"
+ },
+ {
+  "id": "myheritage",
+  "name": "MyHeritage",
+  "category": "Wellness",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/myheritage.png"
+ },
+ {
+  "id": "myq",
+  "name": "myQ",
+  "category": "Smart Home",
+  "brandColor": "#12249c",
+  "logoAsset": "assets/logos/myq.png"
+ },
+ {
+  "id": "n26",
+  "name": "N26",
+  "category": "Finance",
+  "brandColor": "#3ca38e",
+  "logoAsset": "assets/logos/n26.png"
+ },
+ {
+  "id": "n8n",
+  "name": "n8n",
+  "category": "Domains",
+  "brandColor": "#ea5075",
+  "logoAsset": "assets/logos/n8n.png"
+ },
+ {
+  "id": "name_com",
+  "name": "Name.com",
+  "category": "Domains",
+  "brandColor": "#6eda78",
+  "logoAsset": "assets/logos/name_com.png"
+ },
+ {
+  "id": "namecheap",
+  "name": "Namecheap",
+  "category": "Domains",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/namecheap.png"
+ },
+ {
+  "id": "namehero",
+  "name": "NameHero",
+  "category": "Domains",
+  "brandColor": "#0a2b8e",
+  "logoAsset": "assets/logos/namehero.png"
+ },
+ {
+  "id": "naturstrom",
+  "name": "Naturstrom",
+  "category": "Utilities",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/naturstrom.png"
+ },
+ {
+  "id": "navigraph",
+  "name": "Navigraph",
+  "category": "Other",
+  "brandColor": "#181e34",
+  "logoAsset": "assets/logos/navigraph.png"
+ },
+ {
+  "id": "nba_league_pass",
+  "name": "NBA League Pass",
+  "category": "Health & Fitness",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/nba_league_pass.png"
+ },
+ {
+  "id": "nebula",
+  "name": "Nebula",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/nebula.png"
+ },
+ {
+  "id": "nen_energia",
+  "name": "NeN Energia",
+  "category": "Services",
+  "brandColor": "#003cf0",
+  "logoAsset": "assets/logos/nen_energia.png"
+ },
+ {
+  "id": "neon",
+  "name": "neon",
+  "category": "Finance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/neon.png"
+ },
+ {
+  "id": "nest_aware",
+  "name": "Nest Aware",
+  "category": "Smart Home",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/nest_aware.png"
+ },
+ {
+  "id": "netcup",
+  "name": "netcup",
+  "category": "Domains",
+  "brandColor": "#1e2855",
+  "logoAsset": "assets/logos/netcup.png"
+ },
+ {
+  "id": "netflix",
+  "name": "Netflix",
+  "category": "Video & TV",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/netflix.png"
+ },
+ {
+  "id": "netim",
+  "name": "Netim",
+  "category": "Domains",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/netim.png"
+ },
+ {
+  "id": "neurolist",
+  "name": "Neurolist",
+  "category": "Productivity",
+  "brandColor": "#ecf4f3",
+  "logoAsset": "assets/logos/neurolist.png"
+ },
+ {
+  "id": "new_york_times_games",
+  "name": "New York Times Games",
+  "category": "Gaming",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/new_york_times_games.png"
+ },
+ {
+  "id": "newshosting",
+  "name": "Newshosting",
+  "category": "VPN & Security",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/newshosting.png"
+ },
+ {
+  "id": "newton_mail",
+  "name": "Newton Mail",
+  "category": "Productivity",
+  "brandColor": "#7057BB",
+  "logoAsset": "assets/logos/newton_mail.png"
+ },
+ {
+  "id": "nextcloud",
+  "name": "NextCloud",
+  "category": "Cloud Storage",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/nextcloud.png"
+ },
+ {
+  "id": "nextdns",
+  "name": "NextDNS",
+  "category": "VPN & Security",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/nextdns.png"
+ },
+ {
+  "id": "nexus_mods_premium",
+  "name": "Nexus Mods Premium",
+  "category": "Gaming",
+  "brandColor": "#4c4c4c",
+  "logoAsset": "assets/logos/nexus_mods_premium.png"
+ },
+ {
+  "id": "niagara_launcher",
+  "name": "Niagara Launcher",
+  "category": "Developer & Hosting",
+  "brandColor": "#06034a",
+  "logoAsset": "assets/logos/niagara_launcher.png"
+ },
+ {
+  "id": "nintendo_switch_online",
+  "name": "Nintendo Switch Online",
+  "category": "Gaming",
+  "brandColor": "#e60819",
+  "logoAsset": "assets/logos/nintendo_switch_online.png"
+ },
+ {
+  "id": "noitel",
+  "name": "Noitel",
+  "category": "Mobile & Telecom",
+  "brandColor": "#f7f7f7",
+  "logoAsset": "assets/logos/noitel.png"
+ },
+ {
+  "id": "nominalia",
+  "name": "Nominalia",
+  "category": "Domains",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/nominalia.png"
+ },
+ {
+  "id": "nordlocker",
+  "name": "NordLocker",
+  "category": "Productivity",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/nordlocker.png"
+ },
+ {
+  "id": "nordpass",
+  "name": "NordPass",
+  "category": "Password Managers",
+  "brandColor": "#f1f5f8",
+  "logoAsset": "assets/logos/nordpass.png"
+ },
+ {
+  "id": "nordvpn",
+  "name": "NordVPN",
+  "category": "VPN & Security",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/nordvpn.png"
+ },
+ {
+  "id": "norton_antivirus",
+  "name": "Norton AntiVirus",
+  "category": "Antivirus",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/norton_antivirus.png"
+ },
+ {
+  "id": "notesnook",
+  "name": "Notesnook",
+  "category": "Productivity",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/notesnook.png"
+ },
+ {
+  "id": "notewise",
+  "name": "Notewise",
+  "category": "Productivity",
+  "brandColor": "#0468fe",
+  "logoAsset": "assets/logos/notewise.png"
+ },
+ {
+  "id": "notion",
+  "name": "Notion",
+  "category": "Other",
+  "brandColor": "#f7f6f3",
+  "logoAsset": "assets/logos/notion.png"
+ },
+ {
+  "id": "notta",
+  "name": "Notta",
+  "category": "Productivity",
+  "brandColor": "#4875ff",
+  "logoAsset": "assets/logos/notta.png"
+ },
+ {
+  "id": "now_tv",
+  "name": "NOW TV",
+  "category": "Video & TV",
+  "brandColor": "#146b73",
+  "logoAsset": "assets/logos/now_tv.png"
+ },
+ {
+  "id": "o2",
+  "name": "O2",
+  "category": "Mobile & Telecom",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/o2.png"
+ },
+ {
+  "id": "obsidian",
+  "name": "Obsidian",
+  "category": "Productivity",
+  "brandColor": "#2c2c2c",
+  "logoAsset": "assets/logos/obsidian.png"
+ },
+ {
+  "id": "octane_render",
+  "name": "Octane Render",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/octane_render.png"
+ },
+ {
+  "id": "oisix",
+  "name": "Oisix",
+  "category": "Food & Delivery",
+  "brandColor": "#7a9834",
+  "logoAsset": "assets/logos/oisix.png"
+ },
+ {
+  "id": "olg",
+  "name": "OLG",
+  "category": "Other",
+  "brandColor": "#0875ce",
+  "logoAsset": "assets/logos/olg.png"
+ },
+ {
+  "id": "one_sec",
+  "name": "one sec",
+  "category": "Productivity",
+  "brandColor": "#2c3236",
+  "logoAsset": "assets/logos/one_sec.png"
+ },
+ {
+  "id": "onedrive",
+  "name": "OneDrive",
+  "category": "Cloud Storage",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/onedrive.png"
+ },
+ {
+  "id": "oneprovider",
+  "name": "OneProvider",
+  "category": "Internet",
+  "brandColor": "#af3c10",
+  "logoAsset": "assets/logos/oneprovider.png"
+ },
+ {
+  "id": "onidel",
+  "name": "Onidel",
+  "category": "Internet",
+  "brandColor": "#060606",
+  "logoAsset": "assets/logos/onidel.png"
+ },
+ {
+  "id": "onskin",
+  "name": "OnSkin",
+  "category": "Wellness",
+  "brandColor": "#739b6f",
+  "logoAsset": "assets/logos/onskin.png"
+ },
+ {
+  "id": "optima",
+  "name": "Optima",
+  "category": "Mobile & Telecom",
+  "brandColor": "#FFFEFF",
+  "logoAsset": "assets/logos/optima.png"
+ },
+ {
+  "id": "orange",
+  "name": "Orange",
+  "category": "Mobile & Telecom",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/orange.png"
+ },
+ {
+  "id": "otto",
+  "name": "OTTO",
+  "category": "Shopping",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/otto.png"
+ },
+ {
+  "id": "ottplay",
+  "name": "OTTplay",
+  "category": "Video & TV",
+  "brandColor": "#1d0a20",
+  "logoAsset": "assets/logos/ottplay.png"
+ },
+ {
+  "id": "oura",
+  "name": "Oura",
+  "category": "Health & Fitness",
+  "brandColor": "#2f4a73",
+  "logoAsset": "assets/logos/oura.png"
+ },
+ {
+  "id": "overleaf",
+  "name": "Overleaf",
+  "category": "Education",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/overleaf.png"
+ },
+ {
+  "id": "ovh",
+  "name": "OVH",
+  "category": "Domains",
+  "brandColor": "#08159f",
+  "logoAsset": "assets/logos/ovh.png"
+ },
+ {
+  "id": "pandora",
+  "name": "Pandora",
+  "category": "Music",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/pandora.png"
+ },
+ {
+  "id": "paramount",
+  "name": "Paramount+",
+  "category": "Video & TV",
+  "brandColor": "#0868ff",
+  "logoAsset": "assets/logos/paramount.png"
+ },
+ {
+  "id": "patreon",
+  "name": "Patreon",
+  "category": "Donations",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/patreon.png"
+ },
+ {
+  "id": "paybright",
+  "name": "Paybright",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/paybright.png"
+ },
+ {
+  "id": "paypal_credit",
+  "name": "PayPal Credit",
+  "category": "Finance",
+  "brandColor": "#005EA6",
+  "logoAsset": "assets/logos/paypal_credit.png"
+ },
+ {
+  "id": "paytm_first",
+  "name": "Paytm First",
+  "category": "Other",
+  "brandColor": "#0a0a0a",
+  "logoAsset": "assets/logos/paytm_first.png"
+ },
+ {
+  "id": "pbs_passport",
+  "name": "PBS Passport",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/pbs_passport.png"
+ },
+ {
+  "id": "pcloud",
+  "name": "pCloud",
+  "category": "Cloud Storage",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/pcloud.png"
+ },
+ {
+  "id": "peacock",
+  "name": "Peacock",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/peacock.png"
+ },
+ {
+  "id": "perplexity",
+  "name": "Perplexity",
+  "category": "AI",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/perplexity.png"
+ },
+ {
+  "id": "petcube_care",
+  "name": "Petcube Care",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/petcube_care.png"
+ },
+ {
+  "id": "petplan",
+  "name": "Petplan",
+  "category": "Insurance",
+  "brandColor": "#fcfeff",
+  "logoAsset": "assets/logos/petplan.png"
+ },
+ {
+  "id": "pharmeasy_plus",
+  "name": "PharmEasy Plus",
+  "category": "Wellness",
+  "brandColor": "#10847e",
+  "logoAsset": "assets/logos/pharmeasy_plus.png"
+ },
+ {
+  "id": "philo",
+  "name": "Philo",
+  "category": "Video & TV",
+  "brandColor": "#0f0e0e",
+  "logoAsset": "assets/logos/philo.png"
+ },
+ {
+  "id": "pikpak",
+  "name": "PikPak",
+  "category": "Cloud Storage",
+  "brandColor": "#306eff",
+  "logoAsset": "assets/logos/pikpak.png"
+ },
+ {
+  "id": "pixiv",
+  "name": "pixiv",
+  "category": "Other",
+  "brandColor": "#0899fa",
+  "logoAsset": "assets/logos/pixiv.png"
+ },
+ {
+  "id": "planet_marathi",
+  "name": "Planet Marathi",
+  "category": "Video & TV",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/planet_marathi.png"
+ },
+ {
+  "id": "planwiz",
+  "name": "PlanWiz",
+  "category": "Productivity",
+  "brandColor": "#f58162",
+  "logoAsset": "assets/logos/planwiz.png"
+ },
+ {
+  "id": "play",
+  "name": "Play",
+  "category": "Mobile & Telecom",
+  "brandColor": "#5a3786",
+  "logoAsset": "assets/logos/play.png"
+ },
+ {
+  "id": "playit_gg",
+  "name": "playit.gg",
+  "category": "Gaming",
+  "brandColor": "#202533",
+  "logoAsset": "assets/logos/playit_gg.png"
+ },
+ {
+  "id": "playstation_plus",
+  "name": "Playstation Plus",
+  "category": "Gaming",
+  "brandColor": "#c0bfc6",
+  "logoAsset": "assets/logos/playstation_plus.png"
+ },
+ {
+  "id": "plex_pass",
+  "name": "Plex Pass",
+  "category": "Video & TV",
+  "brandColor": "#16162a",
+  "logoAsset": "assets/logos/plex_pass.png"
+ },
+ {
+  "id": "plutus",
+  "name": "Plutus",
+  "category": "Finance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/plutus.png"
+ },
+ {
+  "id": "pocket_casts_plus",
+  "name": "Pocket Casts Plus",
+  "category": "Video & TV",
+  "brandColor": "#f4483c",
+  "logoAsset": "assets/logos/pocket_casts_plus.png"
+ },
+ {
+  "id": "podcast_addict_premium",
+  "name": "Podcast Addict Premium",
+  "category": "Video & TV",
+  "brandColor": "#fc7e0f",
+  "logoAsset": "assets/logos/podcast_addict_premium.png"
+ },
+ {
+  "id": "pokemon_champions",
+  "name": "Pokemon Champions",
+  "category": "Gaming",
+  "brandColor": "#140B61",
+  "logoAsset": "assets/logos/pokemon_champions.png"
+ },
+ {
+  "id": "pokemon_home",
+  "name": "Pokemon HOME",
+  "category": "Gaming",
+  "brandColor": "#e6d467",
+  "logoAsset": "assets/logos/pokemon_home.png"
+ },
+ {
+  "id": "porkbun",
+  "name": "Porkbun",
+  "category": "Internet",
+  "brandColor": "#f27c7c",
+  "logoAsset": "assets/logos/porkbun.png"
+ },
+ {
+  "id": "postemobile",
+  "name": "PosteMobile",
+  "category": "Mobile & Telecom",
+  "brandColor": "#ffcc0c",
+  "logoAsset": "assets/logos/postemobile.png"
+ },
+ {
+  "id": "posteo",
+  "name": "Posteo",
+  "category": "Communication",
+  "brandColor": "#a1d345",
+  "logoAsset": "assets/logos/posteo.png"
+ },
+ {
+  "id": "presto_music",
+  "name": "Presto Music",
+  "category": "Music",
+  "brandColor": "#272f53",
+  "logoAsset": "assets/logos/presto_music.png"
+ },
+ {
+  "id": "privadovpn",
+  "name": "PrivadoVPN",
+  "category": "VPN & Security",
+  "brandColor": "#555dc8",
+  "logoAsset": "assets/logos/privadovpn.png"
+ },
+ {
+  "id": "private_internet_access",
+  "name": "Private Internet Access",
+  "category": "VPN & Security",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/private_internet_access.png"
+ },
+ {
+  "id": "proton",
+  "name": "Proton",
+  "category": "Productivity",
+  "brandColor": "#f4f2ff",
+  "logoAsset": "assets/logos/proton.png"
+ },
+ {
+  "id": "proton_mail",
+  "name": "Proton Mail",
+  "category": "Productivity",
+  "brandColor": "#8B89CC",
+  "logoAsset": "assets/logos/proton_mail.png"
+ },
+ {
+  "id": "proton_pass",
+  "name": "Proton Pass",
+  "category": "Password Managers",
+  "brandColor": "#f7f5ff",
+  "logoAsset": "assets/logos/proton_pass.png"
+ },
+ {
+  "id": "proton_vpn",
+  "name": "Proton VPN",
+  "category": "VPN & Security",
+  "brandColor": "#f7f5ff",
+  "logoAsset": "assets/logos/proton_vpn.png"
+ },
+ {
+  "id": "purelymail",
+  "name": "Purelymail",
+  "category": "Productivity",
+  "brandColor": "#5d0866",
+  "logoAsset": "assets/logos/purelymail.png"
+ },
+ {
+  "id": "purevpn",
+  "name": "PureVPN",
+  "category": "VPN & Security",
+  "brandColor": "#e3e3e3",
+  "logoAsset": "assets/logos/purevpn.png"
+ },
+ {
+  "id": "pythonanywhere",
+  "name": "PythonAnywhere",
+  "category": "Domains",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/pythonanywhere.png"
+ },
+ {
+  "id": "pyur",
+  "name": "PŸUR",
+  "category": "Internet",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/pyur.png"
+ },
+ {
+  "id": "qapital",
+  "name": "Qapital",
+  "category": "Finance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/qapital.png"
+ },
+ {
+  "id": "qobuz",
+  "name": "Qobuz",
+  "category": "Music",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/qobuz.png"
+ },
+ {
+  "id": "qq",
+  "name": "QQ",
+  "category": "Communication",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/qq.png"
+ },
+ {
+  "id": "qq_157",
+  "name": "QQ音乐",
+  "category": "Music",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/qq_157.png"
+ },
+ {
+  "id": "quick_heal",
+  "name": "Quick Heal",
+  "category": "Antivirus",
+  "brandColor": "#f26522",
+  "logoAsset": "assets/logos/quick_heal.png"
+ },
+ {
+  "id": "quickbooks",
+  "name": "QuickBooks",
+  "category": "Finance",
+  "brandColor": "#32a123",
+  "logoAsset": "assets/logos/quickbooks.png"
+ },
+ {
+  "id": "quicken",
+  "name": "Quicken",
+  "category": "Finance",
+  "brandColor": "#4c23ff",
+  "logoAsset": "assets/logos/quicken.png"
+ },
+ {
+  "id": "quizlet",
+  "name": "Quizlet",
+  "category": "Education",
+  "brandColor": "#475aff",
+  "logoAsset": "assets/logos/quizlet.png"
+ },
+ {
+  "id": "qwen",
+  "name": "Qwen",
+  "category": "AI",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/qwen.png"
+ },
+ {
+  "id": "raindrop",
+  "name": "Raindrop",
+  "category": "Productivity",
+  "brandColor": "#EBEDF0",
+  "logoAsset": "assets/logos/raindrop.png"
+ },
+ {
+  "id": "rate_your_music",
+  "name": "Rate Your Music",
+  "category": "Music",
+  "brandColor": "#25427e",
+  "logoAsset": "assets/logos/rate_your_music.png"
+ },
+ {
+  "id": "rave",
+  "name": "Rave",
+  "category": "Other",
+  "brandColor": "#231F20",
+  "logoAsset": "assets/logos/rave.png"
+ },
+ {
+  "id": "readly",
+  "name": "Readly",
+  "category": "News & Magazines",
+  "brandColor": "#121218",
+  "logoAsset": "assets/logos/readly.png"
+ },
+ {
+  "id": "real_debrid",
+  "name": "Real-Debrid",
+  "category": "Developer & Hosting",
+  "brandColor": "#222222",
+  "logoAsset": "assets/logos/real_debrid.png"
+ },
+ {
+  "id": "red_cable_club",
+  "name": "Red Cable Club",
+  "category": "Other",
+  "brandColor": "#101820",
+  "logoAsset": "assets/logos/red_cable_club.png"
+ },
+ {
+  "id": "reddit_premium",
+  "name": "Reddit Premium",
+  "category": "Communication",
+  "brandColor": "#ff4500",
+  "logoAsset": "assets/logos/reddit_premium.png"
+ },
+ {
+  "id": "register_it",
+  "name": "Register.it",
+  "category": "Domains",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/register_it.png"
+ },
+ {
+  "id": "relay_for_reddit",
+  "name": "Relay for reddit",
+  "category": "Communication",
+  "brandColor": "#1d89df",
+  "logoAsset": "assets/logos/relay_for_reddit.png"
+ },
+ {
+  "id": "relive",
+  "name": "Relive",
+  "category": "Health & Fitness",
+  "brandColor": "#ffde1e",
+  "logoAsset": "assets/logos/relive.png"
+ },
+ {
+  "id": "repainter",
+  "name": "Repainter",
+  "category": "Developer & Hosting",
+  "brandColor": "#a9beff",
+  "logoAsset": "assets/logos/repainter.png"
+ },
+ {
+  "id": "revolut",
+  "name": "Revolut",
+  "category": "Finance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/revolut.png"
+ },
+ {
+  "id": "rifty",
+  "name": "Rifty",
+  "category": "Other",
+  "brandColor": "#eae9ff",
+  "logoAsset": "assets/logos/rifty.png"
+ },
+ {
+  "id": "ring",
+  "name": "Ring",
+  "category": "Smart Home",
+  "brandColor": "#209bd6",
+  "logoAsset": "assets/logos/ring.png"
+ },
+ {
+  "id": "roblox",
+  "name": "Roblox",
+  "category": "Gaming",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/roblox.png"
+ },
+ {
+  "id": "runna",
+  "name": "Runna",
+  "category": "Health & Fitness",
+  "brandColor": "#165348",
+  "logoAsset": "assets/logos/runna.png"
+ },
+ {
+  "id": "runway",
+  "name": "Runway",
+  "category": "AI",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/runway.png"
+ },
+ {
+  "id": "scholaread",
+  "name": "Scholaread",
+  "category": "Education",
+  "brandColor": "#3b39e4",
+  "logoAsset": "assets/logos/scholaread.png"
+ },
+ {
+  "id": "senko_digital",
+  "name": "Senko Digital",
+  "category": "Domains",
+  "brandColor": "#0a0413",
+  "logoAsset": "assets/logos/senko_digital.png"
+ },
+ {
+  "id": "serhiy_prytula_charity_foundation",
+  "name": "Serhiy Prytula Charity Foundation",
+  "category": "Donations",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/serhiy_prytula_charity_foundation.png"
+ },
+ {
+  "id": "setapp",
+  "name": "Setapp",
+  "category": "Other",
+  "brandColor": "#26262b",
+  "logoAsset": "assets/logos/setapp.png"
+ },
+ {
+  "id": "shipt",
+  "name": "Shipt",
+  "category": "Food & Delivery",
+  "brandColor": "#2a193f",
+  "logoAsset": "assets/logos/shipt.png"
+ },
+ {
+  "id": "simkl",
+  "name": "Simkl",
+  "category": "Developer & Hosting",
+  "brandColor": "#2a2a2a",
+  "logoAsset": "assets/logos/simkl.png"
+ },
+ {
+  "id": "simplelogin",
+  "name": "SimpleLogin",
+  "category": "Communication",
+  "brandColor": "#d92b81",
+  "logoAsset": "assets/logos/simplelogin.png"
+ },
+ {
+  "id": "siriusxm",
+  "name": "SiriusXM",
+  "category": "Music",
+  "brandColor": "#0808ea",
+  "logoAsset": "assets/logos/siriusxm.png"
+ },
+ {
+  "id": "sketch",
+  "name": "Sketch",
+  "category": "Developer & Hosting",
+  "brandColor": "#F5A800",
+  "logoAsset": "assets/logos/sketch.png"
+ },
+ {
+  "id": "skiff",
+  "name": "Skiff",
+  "category": "Developer & Hosting",
+  "brandColor": "#f5b9d6",
+  "logoAsset": "assets/logos/skiff.png"
+ },
+ {
+  "id": "skillshare",
+  "name": "Skillshare",
+  "category": "Developer & Hosting",
+  "brandColor": "#00ff84",
+  "logoAsset": "assets/logos/skillshare.png"
+ },
+ {
+  "id": "skip",
+  "name": "Skip",
+  "category": "Other",
+  "brandColor": "#ff8000",
+  "logoAsset": "assets/logos/skip.png"
+ },
+ {
+  "id": "sky",
+  "name": "Sky",
+  "category": "Mobile & Telecom",
+  "brandColor": "#F2F2F2",
+  "logoAsset": "assets/logos/sky.png"
+ },
+ {
+  "id": "skyshowtime",
+  "name": "SkyShowTime",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/skyshowtime.png"
+ },
+ {
+  "id": "slack",
+  "name": "Slack",
+  "category": "Communication",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/slack.png"
+ },
+ {
+  "id": "sling",
+  "name": "Sling",
+  "category": "Developer & Hosting",
+  "brandColor": "#0085FF",
+  "logoAsset": "assets/logos/sling.png"
+ },
+ {
+  "id": "slowly",
+  "name": "Slowly",
+  "category": "Other",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/slowly.png"
+ },
+ {
+  "id": "smallcase",
+  "name": "smallcase",
+  "category": "Finance",
+  "brandColor": "#1f7ae0",
+  "logoAsset": "assets/logos/smallcase.png"
+ },
+ {
+  "id": "smart_launcher",
+  "name": "Smart Launcher",
+  "category": "Developer & Hosting",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/smart_launcher.png"
+ },
+ {
+  "id": "smarty",
+  "name": "SMARTY",
+  "category": "Mobile & Telecom",
+  "brandColor": "#8ed6c9",
+  "logoAsset": "assets/logos/smarty.png"
+ },
+ {
+  "id": "snapchat",
+  "name": "Snapchat+",
+  "category": "Communication",
+  "brandColor": "#111111",
+  "logoAsset": "assets/logos/snapchat.png"
+ },
+ {
+  "id": "sonyliv",
+  "name": "SonyLIV",
+  "category": "Video & TV",
+  "brandColor": "#210E3E",
+  "logoAsset": "assets/logos/sonyliv.png"
+ },
+ {
+  "id": "sorgenia",
+  "name": "Sorgenia",
+  "category": "Mobile & Telecom",
+  "brandColor": "#12256A",
+  "logoAsset": "assets/logos/sorgenia.png"
+ },
+ {
+  "id": "soundcloud",
+  "name": "SoundCloud",
+  "category": "Music",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/soundcloud.png"
+ },
+ {
+  "id": "spacemail",
+  "name": "Spacemail",
+  "category": "Communication",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/spacemail.png"
+ },
+ {
+  "id": "spaceship",
+  "name": "Spaceship",
+  "category": "Internet",
+  "brandColor": "#3b4385",
+  "logoAsset": "assets/logos/spaceship.png"
+ },
+ {
+  "id": "spark_premium",
+  "name": "Spark Premium",
+  "category": "Communication",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/spark_premium.png"
+ },
+ {
+  "id": "splice",
+  "name": "Splice",
+  "category": "Music",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/splice.png"
+ },
+ {
+  "id": "spotify",
+  "name": "Spotify",
+  "category": "Music",
+  "brandColor": "#25d865",
+  "logoAsset": "assets/logos/spotify.png"
+ },
+ {
+  "id": "spusu",
+  "name": "spusu",
+  "category": "Mobile & Telecom",
+  "brandColor": "#FFFFFF",
+  "logoAsset": "assets/logos/spusu.png"
+ },
+ {
+  "id": "squadrats",
+  "name": "Squadrats",
+  "category": "Health & Fitness",
+  "brandColor": "#5d3386",
+  "logoAsset": "assets/logos/squadrats.png"
+ },
+ {
+  "id": "stan",
+  "name": "Stan",
+  "category": "Video & TV",
+  "brandColor": "#0877fa",
+  "logoAsset": "assets/logos/stan.png"
+ },
+ {
+  "id": "standard_notes",
+  "name": "Standard Notes",
+  "category": "Productivity",
+  "brandColor": "#0867cb",
+  "logoAsset": "assets/logos/standard_notes.png"
+ },
+ {
+  "id": "star",
+  "name": "Star+",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/star.png"
+ },
+ {
+  "id": "starlink",
+  "name": "Starlink",
+  "category": "Internet",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/starlink.png"
+ },
+ {
+  "id": "stc",
+  "name": "STC",
+  "category": "Mobile & Telecom",
+  "brandColor": "#553287",
+  "logoAsset": "assets/logos/stc.png"
+ },
+ {
+  "id": "sternenko_community",
+  "name": "Sternenko Community",
+  "category": "Donations",
+  "brandColor": "#252525",
+  "logoAsset": "assets/logos/sternenko_community.png"
+ },
+ {
+  "id": "storytel",
+  "name": "Storytel",
+  "category": "Books & Comics",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/storytel.png"
+ },
+ {
+  "id": "strava",
+  "name": "Strava",
+  "category": "Health & Fitness",
+  "brandColor": "#210203",
+  "logoAsset": "assets/logos/strava.png"
+ },
+ {
+  "id": "streamz",
+  "name": "Streamz",
+  "category": "Video & TV",
+  "brandColor": "#090821",
+  "logoAsset": "assets/logos/streamz.png"
+ },
+ {
+  "id": "subscribestar",
+  "name": "SubscribeStar",
+  "category": "Domains",
+  "brandColor": "#222222",
+  "logoAsset": "assets/logos/subscribestar.png"
+ },
+ {
+  "id": "substack",
+  "name": "Substack",
+  "category": "News & Magazines",
+  "brandColor": "#f76317",
+  "logoAsset": "assets/logos/substack.png"
+ },
+ {
+  "id": "summit_bag",
+  "name": "Summit Bag",
+  "category": "Health & Fitness",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/summit_bag.png"
+ },
+ {
+  "id": "sun_nxt",
+  "name": "Sun NXT",
+  "category": "Video & TV",
+  "brandColor": "#fefefe",
+  "logoAsset": "assets/logos/sun_nxt.png"
+ },
+ {
+  "id": "suno",
+  "name": "Suno",
+  "category": "Music",
+  "brandColor": "#ff6531",
+  "logoAsset": "assets/logos/suno.png"
+ },
+ {
+  "id": "sunrise",
+  "name": "Sunrise",
+  "category": "Mobile & Telecom",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/sunrise.png"
+ },
+ {
+  "id": "surfshark",
+  "name": "Surfshark",
+  "category": "VPN & Security",
+  "brandColor": "#222E3A",
+  "logoAsset": "assets/logos/surfshark.png"
+ },
+ {
+  "id": "sweettv",
+  "name": "SweetTV",
+  "category": "Video & TV",
+  "brandColor": "#27c0c8",
+  "logoAsset": "assets/logos/sweettv.png"
+ },
+ {
+  "id": "swift_backup_premium",
+  "name": "Swift Backup Premium",
+  "category": "Developer & Hosting",
+  "brandColor": "#5ebd29",
+  "logoAsset": "assets/logos/swift_backup_premium.png"
+ },
+ {
+  "id": "swiggy_one",
+  "name": "Swiggy One",
+  "category": "Food & Delivery",
+  "brandColor": "#ececec",
+  "logoAsset": "assets/logos/swiggy_one.png"
+ },
+ {
+  "id": "synology_c2",
+  "name": "Synology C2",
+  "category": "Cloud Storage",
+  "brandColor": "#fbfbfc",
+  "logoAsset": "assets/logos/synology_c2.png"
+ },
+ {
+  "id": "t_mobile",
+  "name": "T-Mobile",
+  "category": "Mobile & Telecom",
+  "brandColor": "#e20878",
+  "logoAsset": "assets/logos/t_mobile.png"
+ },
+ {
+  "id": "t3_chat",
+  "name": "T3 Chat",
+  "category": "AI",
+  "brandColor": "#ad157b",
+  "logoAsset": "assets/logos/t3_chat.png"
+ },
+ {
+  "id": "tata_play",
+  "name": "Tata Play",
+  "category": "Video & TV",
+  "brandColor": "#6b00dd",
+  "logoAsset": "assets/logos/tata_play.png"
+ },
+ {
+  "id": "tata_play_fiber",
+  "name": "Tata Play Fiber",
+  "category": "Mobile & Telecom",
+  "brandColor": "#28084b",
+  "logoAsset": "assets/logos/tata_play_fiber.png"
+ },
+ {
+  "id": "telcel",
+  "name": "Telcel",
+  "category": "Mobile & Telecom",
+  "brandColor": "#f7f7f7",
+  "logoAsset": "assets/logos/telcel.png"
+ },
+ {
+  "id": "tele2",
+  "name": "Tele2",
+  "category": "Mobile & Telecom",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/tele2.png"
+ },
+ {
+  "id": "telegram_premium",
+  "name": "Telegram Premium",
+  "category": "Communication",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/telegram_premium.png"
+ },
+ {
+  "id": "telemach",
+  "name": "Telemach",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/telemach.png"
+ },
+ {
+  "id": "telmex",
+  "name": "Telmex",
+  "category": "Mobile & Telecom",
+  "brandColor": "#FFFFFF",
+  "logoAsset": "assets/logos/telmex.png"
+ },
+ {
+  "id": "termius",
+  "name": "Termius",
+  "category": "Domains",
+  "brandColor": "#1b223f",
+  "logoAsset": "assets/logos/termius.png"
+ },
+ {
+  "id": "tesla",
+  "name": "Tesla",
+  "category": "Transport",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/tesla.png"
+ },
+ {
+  "id": "textnow",
+  "name": "TextNow",
+  "category": "Mobile & Telecom",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/textnow.png"
+ },
+ {
+  "id": "the_athletic",
+  "name": "The Athletic",
+  "category": "News & Magazines",
+  "brandColor": "#1a1a1a",
+  "logoAsset": "assets/logos/the_athletic.png"
+ },
+ {
+  "id": "the_economist",
+  "name": "The Economist",
+  "category": "News & Magazines",
+  "brandColor": "#e31912",
+  "logoAsset": "assets/logos/the_economist.png"
+ },
+ {
+  "id": "the_hindu",
+  "name": "The Hindu",
+  "category": "News & Magazines",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/the_hindu.png"
+ },
+ {
+  "id": "the_new_york_times",
+  "name": "The New York Times",
+  "category": "News & Magazines",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/the_new_york_times.png"
+ },
+ {
+  "id": "the_souled_store",
+  "name": "The Souled Store",
+  "category": "Other",
+  "brandColor": "#ed2d2f",
+  "logoAsset": "assets/logos/the_souled_store.png"
+ },
+ {
+  "id": "the_verge",
+  "name": "The Verge",
+  "category": "News & Magazines",
+  "brandColor": "#5708ff",
+  "logoAsset": "assets/logos/the_verge.png"
+ },
+ {
+  "id": "the_wall_street_journal",
+  "name": "The Wall Street Journal",
+  "category": "News & Magazines",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/the_wall_street_journal.png"
+ },
+ {
+  "id": "the_washington_post",
+  "name": "The Washington Post",
+  "category": "News & Magazines",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/the_washington_post.png"
+ },
+ {
+  "id": "three",
+  "name": "Three",
+  "category": "Mobile & Telecom",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/three.png"
+ },
+ {
+  "id": "thunderbird",
+  "name": "Thunderbird",
+  "category": "Communication",
+  "brandColor": "#f7f7f7",
+  "logoAsset": "assets/logos/thunderbird.png"
+ },
+ {
+  "id": "ticktick_premium",
+  "name": "TickTick Premium",
+  "category": "Productivity",
+  "brandColor": "#151618",
+  "logoAsset": "assets/logos/ticktick_premium.png"
+ },
+ {
+  "id": "tidal",
+  "name": "Tidal",
+  "category": "Music",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/tidal.png"
+ },
+ {
+  "id": "tile_premium",
+  "name": "Tile Premium",
+  "category": "Other",
+  "brandColor": "#10b7c6",
+  "logoAsset": "assets/logos/tile_premium.png"
+ },
+ {
+  "id": "tim",
+  "name": "TIM",
+  "category": "Mobile & Telecom",
+  "brandColor": "#CDCDCD",
+  "logoAsset": "assets/logos/tim.png"
+ },
+ {
+  "id": "times_prime",
+  "name": "Times Prime",
+  "category": "Other",
+  "brandColor": "#841ec1",
+  "logoAsset": "assets/logos/times_prime.png"
+ },
+ {
+  "id": "tinder",
+  "name": "Tinder",
+  "category": "Communication",
+  "brandColor": "#e94972",
+  "logoAsset": "assets/logos/tinder.png"
+ },
+ {
+  "id": "tiscali",
+  "name": "Tiscali",
+  "category": "Mobile & Telecom",
+  "brandColor": "#645ca3",
+  "logoAsset": "assets/logos/tiscali.png"
+ },
+ {
+  "id": "today_weather_premium",
+  "name": "Today Weather Premium",
+  "category": "Developer & Hosting",
+  "brandColor": "#f2f2f2",
+  "logoAsset": "assets/logos/today_weather_premium.png"
+ },
+ {
+  "id": "todoist",
+  "name": "Todoist",
+  "category": "Productivity",
+  "brandColor": "#f7f7f7",
+  "logoAsset": "assets/logos/todoist.png"
+ },
+ {
+  "id": "toi_plus",
+  "name": "TOI Plus",
+  "category": "News & Magazines",
+  "brandColor": "#d8232a",
+  "logoAsset": "assets/logos/toi_plus.png"
+ },
+ {
+  "id": "toneden",
+  "name": "ToneDen",
+  "category": "Productivity",
+  "brandColor": "#1B1B1B",
+  "logoAsset": "assets/logos/toneden.png"
+ },
+ {
+  "id": "torbox",
+  "name": "TorBox",
+  "category": "VPN & Security",
+  "brandColor": "#12141b",
+  "logoAsset": "assets/logos/torbox.png"
+ },
+ {
+  "id": "tradingview",
+  "name": "TradingView",
+  "category": "Finance",
+  "brandColor": "#060606",
+  "logoAsset": "assets/logos/tradingview.png"
+ },
+ {
+  "id": "trakt",
+  "name": "Trakt",
+  "category": "Video & TV",
+  "brandColor": "#282828",
+  "logoAsset": "assets/logos/trakt.png"
+ },
+ {
+  "id": "travelers",
+  "name": "Travelers",
+  "category": "Insurance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/travelers.png"
+ },
+ {
+  "id": "true_caller",
+  "name": "True Caller",
+  "category": "Other",
+  "brandColor": "#F4F7F9",
+  "logoAsset": "assets/logos/true_caller.png"
+ },
+ {
+  "id": "trupanion",
+  "name": "Trupanion",
+  "category": "Insurance",
+  "brandColor": "#4162b1",
+  "logoAsset": "assets/logos/trupanion.png"
+ },
+ {
+  "id": "tryhackme",
+  "name": "TryHackMe",
+  "category": "Domains",
+  "brandColor": "#101a29",
+  "logoAsset": "assets/logos/tryhackme.png"
+ },
+ {
+  "id": "tunnelbear",
+  "name": "TunnelBear",
+  "category": "VPN & Security",
+  "brandColor": "#F7BA1A",
+  "logoAsset": "assets/logos/tunnelbear.png"
+ },
+ {
+  "id": "tuta",
+  "name": "Tuta",
+  "category": "Communication",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/tuta.png"
+ },
+ {
+  "id": "twitch",
+  "name": "Twitch",
+  "category": "Gaming",
+  "brandColor": "#944bff",
+  "logoAsset": "assets/logos/twitch.png"
+ },
+ {
+  "id": "typefully",
+  "name": "Typefully",
+  "category": "Communication",
+  "brandColor": "#209cf5",
+  "logoAsset": "assets/logos/typefully.png"
+ },
+ {
+  "id": "u_next",
+  "name": "U-Next",
+  "category": "Video & TV",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/u_next.png"
+ },
+ {
+  "id": "uber_eats",
+  "name": "Uber Eats",
+  "category": "Food & Delivery",
+  "brandColor": "#1bc36f",
+  "logoAsset": "assets/logos/uber_eats.png"
+ },
+ {
+  "id": "uber_one",
+  "name": "Uber One",
+  "category": "Transport",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/uber_one.png"
+ },
+ {
+  "id": "ufc_fight_pass",
+  "name": "UFC Fight Pass",
+  "category": "Health & Fitness",
+  "brandColor": "#d41212",
+  "logoAsset": "assets/logos/ufc_fight_pass.png"
+ },
+ {
+  "id": "united_daily_news",
+  "name": "United Daily News",
+  "category": "Other",
+  "brandColor": "#ec6c00",
+  "logoAsset": "assets/logos/united_daily_news.png"
+ },
+ {
+  "id": "united24",
+  "name": "United24",
+  "category": "Donations",
+  "brandColor": "#0057b8",
+  "logoAsset": "assets/logos/united24.png"
+ },
+ {
+  "id": "unsplash",
+  "name": "Unsplash+",
+  "category": "Developer & Hosting",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/unsplash.png"
+ },
+ {
+  "id": "untappd",
+  "name": "Untappd",
+  "category": "Other",
+  "brandColor": "#ffc21c",
+  "logoAsset": "assets/logos/untappd.png"
+ },
+ {
+  "id": "urban_company",
+  "name": "Urban Company",
+  "category": "Services",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/urban_company.png"
+ },
+ {
+  "id": "urban_sports_club",
+  "name": "Urban Sports Club",
+  "category": "Health & Fitness",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/urban_sports_club.png"
+ },
+ {
+  "id": "value_research",
+  "name": "Value Research",
+  "category": "Other",
+  "brandColor": "#21529f",
+  "logoAsset": "assets/logos/value_research.png"
+ },
+ {
+  "id": "very_mobile",
+  "name": "Very Mobile",
+  "category": "Mobile & Telecom",
+  "brandColor": "#F9F9F9",
+  "logoAsset": "assets/logos/very_mobile.png"
+ },
+ {
+  "id": "vi",
+  "name": "Vi",
+  "category": "Mobile & Telecom",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/vi.png"
+ },
+ {
+  "id": "viaplay",
+  "name": "Viaplay",
+  "category": "Video & TV",
+  "brandColor": "#f5f9fa",
+  "logoAsset": "assets/logos/viaplay.png"
+ },
+ {
+  "id": "videoland",
+  "name": "Videoland",
+  "category": "Video & TV",
+  "brandColor": "#ff3d4b",
+  "logoAsset": "assets/logos/videoland.png"
+ },
+ {
+  "id": "viki",
+  "name": "Viki",
+  "category": "Video & TV",
+  "brandColor": "#139eff",
+  "logoAsset": "assets/logos/viki.png"
+ },
+ {
+  "id": "virgin_media",
+  "name": "Virgin Media",
+  "category": "Video & TV",
+  "brandColor": "#ed0808",
+  "logoAsset": "assets/logos/virgin_media.png"
+ },
+ {
+  "id": "virgin_plus",
+  "name": "Virgin Plus",
+  "category": "Video & TV",
+  "brandColor": "#e11111",
+  "logoAsset": "assets/logos/virgin_plus.png"
+ },
+ {
+  "id": "visa",
+  "name": "Visa",
+  "category": "Finance",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/visa.png"
+ },
+ {
+  "id": "vix_premium",
+  "name": "ViX Premium",
+  "category": "Video & TV",
+  "brandColor": "#ff5f08",
+  "logoAsset": "assets/logos/vix_premium.png"
+ },
+ {
+  "id": "vodafone",
+  "name": "Vodafone",
+  "category": "Mobile & Telecom",
+  "brandColor": "#FFFFFF",
+  "logoAsset": "assets/logos/vodafone.png"
+ },
+ {
+  "id": "voot",
+  "name": "Voot",
+  "category": "Video & TV",
+  "brandColor": "#F2F2F2",
+  "logoAsset": "assets/logos/voot.png"
+ },
+ {
+  "id": "voxi",
+  "name": "VOXI",
+  "category": "Mobile & Telecom",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/voxi.png"
+ },
+ {
+  "id": "vtm_go",
+  "name": "VTM GO+",
+  "category": "Video & TV",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/vtm_go.png"
+ },
+ {
+  "id": "vultr",
+  "name": "Vultr",
+  "category": "Developer & Hosting",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/vultr.png"
+ },
+ {
+  "id": "walmart",
+  "name": "Walmart+",
+  "category": "Shopping",
+  "brandColor": "#0873de",
+  "logoAsset": "assets/logos/walmart.png"
+ },
+ {
+  "id": "wanderlog",
+  "name": "Wanderlog",
+  "category": "Other",
+  "brandColor": "#f75f49",
+  "logoAsset": "assets/logos/wanderlog.png"
+ },
+ {
+  "id": "wandrer",
+  "name": "Wandrer",
+  "category": "Health & Fitness",
+  "brandColor": "#d12977",
+  "logoAsset": "assets/logos/wandrer.png"
+ },
+ {
+  "id": "wasabi",
+  "name": "Wasabi",
+  "category": "Domains",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/wasabi.png"
+ },
+ {
+  "id": "webshare",
+  "name": "Webshare",
+  "category": "VPN & Security",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/webshare.png"
+ },
+ {
+  "id": "wemag",
+  "name": "WEMAG",
+  "category": "Internet",
+  "brandColor": "#007ebc",
+  "logoAsset": "assets/logos/wemag.png"
+ },
+ {
+  "id": "whoop",
+  "name": "Whoop",
+  "category": "Wellness",
+  "brandColor": "#080808",
+  "logoAsset": "assets/logos/whoop.png"
+ },
+ {
+  "id": "wikiloc",
+  "name": "Wikiloc",
+  "category": "Health & Fitness",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/wikiloc.png"
+ },
+ {
+  "id": "windscribe",
+  "name": "Windscribe",
+  "category": "VPN & Security",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/windscribe.png"
+ },
+ {
+  "id": "windsurf",
+  "name": "Windsurf",
+  "category": "Domains",
+  "brandColor": "#faf3ea",
+  "logoAsset": "assets/logos/windsurf.png"
+ },
+ {
+  "id": "windtre",
+  "name": "WINDTRE",
+  "category": "Mobile & Telecom",
+  "brandColor": "#FFFFFF",
+  "logoAsset": "assets/logos/windtre.png"
+ },
+ {
+  "id": "windy",
+  "name": "Windy",
+  "category": "Developer & Hosting",
+  "brandColor": "#a71c20",
+  "logoAsset": "assets/logos/windy.png"
+ },
+ {
+  "id": "wiser",
+  "name": "Wiser",
+  "category": "Smart Home",
+  "brandColor": "#fefefe",
+  "logoAsset": "assets/logos/wiser.png"
+ },
+ {
+  "id": "wix",
+  "name": "Wix",
+  "category": "Domains",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/wix.png"
+ },
+ {
+  "id": "wolt",
+  "name": "Wolt+",
+  "category": "Food & Delivery",
+  "brandColor": "#08c2ea",
+  "logoAsset": "assets/logos/wolt.png"
+ },
+ {
+  "id": "wordtune",
+  "name": "Wordtune",
+  "category": "Productivity",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/wordtune.png"
+ },
+ {
+  "id": "world_of_warcraft",
+  "name": "World of Warcraft",
+  "category": "Gaming",
+  "brandColor": "#fdf3c6",
+  "logoAsset": "assets/logos/world_of_warcraft.png"
+ },
+ {
+  "id": "wwe_network",
+  "name": "WWE Network",
+  "category": "Other",
+  "brandColor": "#f7f7f7",
+  "logoAsset": "assets/logos/wwe_network.png"
+ },
+ {
+  "id": "wynk_music",
+  "name": "Wynk Music",
+  "category": "Music",
+  "brandColor": "#ec2027",
+  "logoAsset": "assets/logos/wynk_music.png"
+ },
+ {
+  "id": "x_premium",
+  "name": "X Premium",
+  "category": "Communication",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/x_premium.png"
+ },
+ {
+  "id": "xbox_gamepass",
+  "name": "Xbox Gamepass",
+  "category": "Gaming",
+  "brandColor": "#178016",
+  "logoAsset": "assets/logos/xbox_gamepass.png"
+ },
+ {
+  "id": "xmind",
+  "name": "XMind",
+  "category": "Developer & Hosting",
+  "brandColor": "#f3f3f6",
+  "logoAsset": "assets/logos/xmind.png"
+ },
+ {
+  "id": "xtiles",
+  "name": "xTiles",
+  "category": "Productivity",
+  "brandColor": "#175cff",
+  "logoAsset": "assets/logos/xtiles.png"
+ },
+ {
+  "id": "yelum_seguradora",
+  "name": "Yelum Seguradora",
+  "category": "Insurance",
+  "brandColor": "#354141",
+  "logoAsset": "assets/logos/yelum_seguradora.png"
+ },
+ {
+  "id": "ynab",
+  "name": "YNAB",
+  "category": "Finance",
+  "brandColor": "#4363da",
+  "logoAsset": "assets/logos/ynab.png"
+ },
+ {
+  "id": "youtube_music",
+  "name": "Youtube Music",
+  "category": "Music",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/youtube_music.png"
+ },
+ {
+  "id": "youtube_premium",
+  "name": "Youtube Premium",
+  "category": "Video & TV",
+  "brandColor": "#FF0000",
+  "logoAsset": "assets/logos/youtube_premium.png"
+ },
+ {
+  "id": "youtube_tv",
+  "name": "Youtube TV",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/youtube_tv.png"
+ },
+ {
+  "id": "z_ai",
+  "name": "Z.ai",
+  "category": "Books & Comics",
+  "brandColor": "#0a0e10",
+  "logoAsset": "assets/logos/z_ai.png"
+ },
+ {
+  "id": "zain",
+  "name": "Zain",
+  "category": "Mobile & Telecom",
+  "brandColor": "#85bf40",
+  "logoAsset": "assets/logos/zain.png"
+ },
+ {
+  "id": "zap_hosting",
+  "name": "ZAP-Hosting",
+  "category": "VPN & Security",
+  "brandColor": "#20e98e",
+  "logoAsset": "assets/logos/zap_hosting.png"
+ },
+ {
+  "id": "zee_5",
+  "name": "Zee 5",
+  "category": "Video & TV",
+  "brandColor": "#0F0617",
+  "logoAsset": "assets/logos/zee_5.png"
+ },
+ {
+  "id": "zestyrides",
+  "name": "ZestyRides",
+  "category": "Health & Fitness",
+  "brandColor": "#1d232a",
+  "logoAsset": "assets/logos/zestyrides.png"
+ },
+ {
+  "id": "zomato_gold",
+  "name": "Zomato Gold",
+  "category": "Food & Delivery",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/zomato_gold.png"
+ },
+ {
+  "id": "item_93",
+  "name": "Київстар",
+  "category": "Mobile & Telecom",
+  "brandColor": "#229FFF",
+  "logoAsset": "assets/logos/item_93.png"
+ },
+ {
+  "id": "plus",
+  "name": "京东PLUS",
+  "category": "Shopping",
+  "brandColor": "#2d2f41",
+  "logoAsset": "assets/logos/plus.png"
+ },
+ {
+  "id": "item_159",
+  "name": "优酷视频",
+  "category": "Video & TV",
+  "brandColor": "#16161a",
+  "logoAsset": "assets/logos/item_159.png"
+ },
+ {
+  "id": "item_153",
+  "name": "哔哩哔哩",
+  "category": "Video & TV",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/item_153.png"
+ },
+ {
+  "id": "prime",
+  "name": "少数派 PRIME",
+  "category": "News & Magazines",
+  "brandColor": "#000000",
+  "logoAsset": "assets/logos/prime.png"
+ },
+ {
+  "id": "item_253",
+  "name": "微信读书",
+  "category": "Other",
+  "brandColor": "#111213",
+  "logoAsset": "assets/logos/item_253.png"
+ },
+ {
+  "id": "88vip",
+  "name": "淘宝88VIP",
+  "category": "Shopping",
+  "brandColor": "#28282a",
+  "logoAsset": "assets/logos/88vip.png"
+ },
+ {
+  "id": "item_156",
+  "name": "爱奇艺",
+  "category": "Video & TV",
+  "brandColor": "#331814",
+  "logoAsset": "assets/logos/item_156.png"
+ },
+ {
+  "id": "item_152",
+  "name": "百度网盘",
+  "category": "Cloud Storage",
+  "brandColor": "#e9e9ea",
+  "logoAsset": "assets/logos/item_152.png"
+ },
+ {
+  "id": "item_454",
+  "name": "百度贴吧",
+  "category": "Communication",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/item_454.png"
+ },
+ {
+  "id": "item_155",
+  "name": "端传媒",
+  "category": "News & Magazines",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/item_155.png"
+ },
+ {
+  "id": "item_209",
+  "name": "网易云音乐",
+  "category": "Other",
+  "brandColor": "#ea2000",
+  "logoAsset": "assets/logos/item_209.png"
+ },
+ {
+  "id": "item_158",
+  "name": "腾讯视频",
+  "category": "Video & TV",
+  "brandColor": "#0f0f1e",
+  "logoAsset": "assets/logos/item_158.png"
+ },
+ {
+  "id": "item_252",
+  "name": "财新",
+  "category": "News & Magazines",
+  "brandColor": "#ffffff",
+  "logoAsset": "assets/logos/item_252.png"
+ },
+ {
+  "id": "item_254",
+  "name": "阿里云盘",
+  "category": "Cloud Storage",
+  "brandColor": "#748ffc",
+  "logoAsset": "assets/logos/item_254.png"
+ }
+]
